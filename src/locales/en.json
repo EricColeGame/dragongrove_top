@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop: clear corrupted overgrowth, build your first nesting grounds, and hatch a dragon companion."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Raise your Grove Sanctuary Level quickly by clearing milestones, hatching new species, and keeping companions happy."
         },
         {
           "number": "3",
           "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "description": "Farm Grove Timber, Sunlit Dew, and Emberberry on efficient daily routes around the sanctuary."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Dragongrove."
+          "title": "How to Evolve",
+          "description": "Guide dragons from Hatchling to Primal Elder with affinity-matched feeding, grooming, and habitat care."
         }
       ]
     },
@@ -66,237 +66,339 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Grove Progression",
+        "Dragon Affinities",
+        "Resource Farming",
+        "Expedition Zones"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first perch to clearing corrupted terrain and hatching your first drake.",
+          "href": "/guide/dragongrove-beginner-guide"
+        },
+        {
+          "badge": "Core",
+          "title": "Gameplay Mechanics",
+          "description": "Daily cycles, elemental care, terraforming, and the resource loops that drive grove growth.",
+          "href": "/mechanics/dragongrove-gameplay"
+        },
+        {
+          "badge": "Popular",
+          "title": "Dragon Affinity Guide",
+          "description": "Match Ember, Verdant, Torrent, Gale, and Umbral dragons to their native biomes and best roles.",
+          "href": "/mechanics/dragongrove-features"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Progression Tiers",
+          "description": "All five grove tiers from Verdant Clearing to Prismatic Sanctuary with their unlock requirements.",
+          "href": "/mechanics/dragongrove-progression"
+        },
+        {
+          "badge": "Popular",
+          "title": "Resource Farming",
+          "description": "Best routes and refining methods for timber, ores, draconic byproducts, and elemental catalysts.",
+          "href": "/items/dragongrove-resources"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Rewards & Drop Rates",
+          "description": "Cache tiers, boss drops, and efficient farming routes for every stage of the grove.",
+          "href": "/items/dragongrove-rewards"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Crafting Stations",
+          "description": "Workstation tiers from the Carpenter's Bench to the Broodflame Hearth and their recipes.",
+          "href": "/items/dragongrove-crafting"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "World & Biomes",
+          "description": "Layered islands, wind tunnels, and the elemental biomes that shape dragon habitat planning.",
+          "href": "/maps/dragongrove-world"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Updated",
+          "title": "Release Date",
+          "description": "Platforms, playtest waves, demo plans, and the roadmap toward the full launch.",
+          "href": "/updates/dragongrove-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Dragongrove?",
       "paragraphs": [
-        "Dragongrove is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Dragongrove is a fantasy sanctuary management and adventure game where you restore a fractured grove and raise mythical dragons. You clear corrupted overgrowth, build elemental habitats, and bond with drakes that each belong to an affinity such as Ember, Verdant, Torrent, Gale, or Umbral.",
+        "Progression runs on a day-night cycle of foraging, terraforming, breeding, and expeditions. As your Grove Sanctuary Level rises you unlock dual-element habitats, cross-breeding altars, and high-altitude expedition routes filled with relics, rare seeds, and primal dragon eggs."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Genre",
+          "value": "Sanctuary Sim RPG"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Affinities",
+          "value": "5"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Grove Tiers",
+          "value": "5"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Life Stages",
+          "value": "4"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Expedition Zones",
+          "value": "5"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Dragongrove Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Your hub for Dragongrove guides covering beginner setup, elemental dragon care, grove progression, puzzle shrines, customization, rewards, and release news.",
       "modules": [
         {
           "order": 1,
-          "name": "Dragongrove Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/dragongrove-codes",
-          "displayType": "code-box",
+          "name": "Dragongrove Beginner Guide",
+          "description": "New players learn the basic gameplay loop, first-time setup, and early progression path. It covers interacting with dragons, clearing corrupted overgrowth, and building familiarity with the grove.",
+          "href": "/guide/dragongrove-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scout the grove and clear mist-covered plots to open your first building space."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Build basic nesting grounds, a feeding trough, and a woodcutter bench."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Hatch or adopt your first companion, then feed and groom it daily."
+            },
+            {
+              "label": "4",
+              "detail": "Assign your drake to a task that matches its elemental affinity."
+            },
+            {
+              "label": "5",
+              "detail": "Set a morning harvest routine for timber, Sunlit Dew, and Emberberry."
+            },
+            {
+              "label": "6",
+              "detail": "Raise your Grove Sanctuary Level to unlock the first elemental roosts."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/dragongrove-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Dragongrove Gameplay Guide",
+          "description": "A comprehensive overview of the core systems, including elemental dragon care, grove terraforming, resource management, and daily expedition loops.",
+          "href": "/mechanics/dragongrove-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Core Loop",
+              "detail": "Nurture, harvest, terraform, and explore across a day-night cycle."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Affinity",
+              "detail": "Match dragons to their native biome to boost mood and essence output."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Expedition",
+              "detail": "Send elemental teams into hazard zones for relics and rare seeds."
+            },
+            {
+              "label": "Economy",
+              "detail": "Balance raw materials against refined goods to avoid bottlenecks."
+            },
+            {
+              "label": "Habitat",
+              "detail": "Zone habitats together to trigger passive synergy bonuses."
+            },
+            {
+              "label": "Seasons",
+              "detail": "Dynamic weather shifts resource flushes and hatchling spawns."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/dragongrove-tier-list",
+          "name": "Dragongrove Dragons Guide",
+          "description": "Introduces dragon companions, their elemental affinities, life stages, and breeding options for keepers building a balanced roster.",
+          "href": "/mechanics/dragongrove-features",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Ember Wyrm and Verdant Drake carry early forging and crop yields."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Torrent Wyrm and Gale Drake excel at irrigation and fast scouting."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Umbral Drake shines in night caches but needs a shadow habitat."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Starter breeds such as Emberling and Ripple Serpent fall off later."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/dragongrove-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Dragongrove Puzzle Guide",
+          "description": "A guide focused on solving the grove's spatial puzzle shrines, understanding plant matching mechanics, and improving puzzle-solving efficiency.",
+          "href": "/guide/dragongrove-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Scan the shrine layout before moving anything to spot the intended pattern."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Match plants by elemental color to open the sealed grove gate."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Rotate and align rune pillars so their light beams connect."
+            },
+            {
+              "label": "4",
+              "detail": "Claim the reward cache that unlocks after every solved shrine."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/dragongrove-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Dragongrove Levels Guide",
+          "description": "Explains the grove tier structure, dragon capacity, power requirements, and how content expands as keepers advance.",
+          "href": "/mechanics/dragongrove-progression",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Tier I",
+              "detail": "Verdant Clearing - 4 dragons, basic nests, and the timber mill."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tier II",
+              "detail": "Whispering Glade - 8 dragons, stone roosts, and the herbal garden."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Tier III",
+              "detail": "Shimmering Canopy - 16 dragons, dual-element habitats, and the altar."
+            },
+            {
+              "label": "Tier IV",
+              "detail": "Draconic Bastion - 28 dragons, sky vaults, and the enchanted hatchery."
+            },
+            {
+              "label": "Tier V",
+              "detail": "Prismatic Sanctuary - 45+ dragons, legendary monoliths, and the ley conduit."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/dragongrove-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Dragongrove Customization Guide",
+          "description": "Covers dragon cosmetics, saddles, accessories, keeper relics, and sanctuary decor that make each companion and grove unique.",
+          "href": "/items/dragongrove-equipment",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Saddles",
+              "detail": "Craftable saddles change flight handling and unlock new routes."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Scales",
+              "detail": "Cosmetic scale dyes and patterns drop from rare breeding pairs."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Relics",
+              "detail": "Keeper relics add passive bonuses to taming and exploration."
+            },
+            {
+              "label": "Decor",
+              "detail": "Crystal lamps and totems grant micro-buffs to nearby habitats."
+            },
+            {
+              "label": "Auras",
+              "detail": "Legendary cosmetic auras mark flawless expedition clears."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dragongrove Coins Guide",
+          "description": "Explains the currency and reward system, including gold, grove essence, and the rare materials used for upgrades and breeding.",
+          "href": "/items/dragongrove-rewards",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Gold",
+              "detail": "Primary coin for habitat upkeep, merchant trades, and tool repair."
+            },
+            {
+              "label": "Essence",
+              "detail": "Grove Essence fuels terraforming and land-clearance upgrades."
+            },
+            {
+              "label": "Shards",
+              "detail": "Sunstone Shards gate Tier II habitats and stone mining."
+            },
+            {
+              "label": "Amber",
+              "detail": "Dragon Amber powers cross-breeding altars and rare roosts."
+            },
+            {
+              "label": "Embers",
+              "detail": "Prismatic Embers refine endgame relics and legendary gear."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dragongrove Release Guide",
+          "description": "Provides the latest information about release timing, supported platforms, device requirements, and official announcements.",
+          "href": "/updates/dragongrove-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Platform",
+              "detail": "PC first on Steam, with console ports expected after launch."
+            },
+            {
+              "label": "Playtest",
+              "detail": "Closed playtests run in waves through community signups."
+            },
+            {
+              "label": "Demo",
+              "detail": "A free public Steam demo is planned for a seasonal showcase."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Early Access targets the core systems with iterative updates."
+            },
+            {
+              "label": "Launch",
+              "detail": "Full 1.0 release adds endgame breeding and worldwide retail."
+            },
+            {
+              "label": "Specs",
+              "detail": "Recommended: 16 GB RAM, RTX 3060, and 30 GB NVMe SSD."
             }
           ]
         }
@@ -308,23 +410,27 @@
       "items": [
         {
           "question": "What is Dragongrove?",
-          "answer": "Dragongrove is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Dragongrove is a fantasy sanctuary management game where you restore a magical grove and raise elemental dragons. You clear corrupted terrain, build habitats, breed new drakes, and send expedition teams into hazardous biomes."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I raise my Grove Sanctuary Level in Dragongrove?",
+          "answer": "Complete restoration milestones, hatch new species, and keep companions happy. Each level unlocks new habitat footprints and structures such as the Nursery and the Alchemical Forge."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the elemental affinities in Dragongrove?",
+          "answer": "Dragons belong to affinities including Ember, Verdant, Torrent, Gale, and Umbral. Matching a dragon to its native biome boosts mood, essence production, and expedition perks."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do expeditions work in Dragongrove?",
+          "answer": "You send elemental teams into zones such as Bramblewood Thicket or Frostfall Crevasse. Match party resistances to the biome, pack provisions, and return with relics, runes, and rare eggs."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Dragongrove free to play?",
+          "answer": "Dragongrove is planned as a paid PC release on Steam with an Early Access phase, followed by console ports after launch."
+        },
+        {
+          "question": "Where do Dragongrove rewards come from?",
+          "answer": "Rewards come from puzzle shrines, elite sentinels, and boss drop pools. Check the Dragongrove rewards guide for cache tiers, drop rates, and farming routes."
         }
       ]
     },

@@ -1,1 +1,510 @@
-{}
+{
+  "site": {
+    "name": "Dragongrove Wiki",
+    "shortName": "Dragongrove",
+    "tagline": "Drachen-Guides, Puzzle-Tipps & Updates",
+    "description": "Dragongrove ist ein Fantasy-Abenteuerspiel, bei dem du magische Umgebungen erkundest, Drachen entdeckst und Bindungen zu mythischen Kreaturen aufbaust.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "maps": "Karten",
+    "mechanics": "Mechanik",
+    "items": "Gegenstände",
+    "updates": "Updates",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Dragongrove Wiki - Drachen, Guides & Updates",
+      "description": "Entdecke das Dragongrove Wiki mit Drachen-Guides, Spieltipps, Kreaturen-Infos, Updates und nützlichen Ressourcen für Fantasy-Abenteurer."
+    },
+    "hero": {
+      "eyebrow": "Fantasy-Drachen-Abenteuerspiel",
+      "title": "Dragongrove Wiki",
+      "description": "Dragongrove ist ein Fantasy-Abenteuerspiel, bei dem du magische Umgebungen erkundest, Drachen entdeckst und Bindungen zu mythischen Kreaturen aufbaust.",
+      "stats": [
+        "Seitenaufrufe",
+        "Verfügbare Drachen",
+        "Aktive Codes",
+        "Tägliche Updates"
+      ],
+      "primaryCta": "Kostenlos auf Meta Quest spielen",
+      "secondaryCta": "Einsteiger-Guide",
+      "tertiaryCta": "Offizielle FAQ",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Dragongrove-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne den Kernkreislauf: Beseitige verdorbenen Wildwuchs, baue deine ersten Nistplätze und brüte einen Drachengefährten aus."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveln",
+          "description": "Steigere dein Hain-Heiligtum-Level schnell, indem du Meilensteine abschließt, neue Arten ausbrütest und deine Gefährten glücklich hältst."
+        },
+        {
+          "number": "3",
+          "title": "Beste Farmplätze",
+          "description": "Farme Hain-Holz, Sonnentau und Glutbeere auf effizienten täglichen Routen rund um das Heiligtum."
+        },
+        {
+          "number": "4",
+          "title": "So entwickelst du",
+          "description": "Führe Drachen vom Schlüpfling bis zum Ur-Ältesten mit auf die Affinität abgestimmter Fütterung, Pflege und Lebensraumversorgung."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade angesagt",
+      "quickLinks": [
+        "Hain-Fortschritt",
+        "Drachen-Affinitäten",
+        "Ressourcen-Farming",
+        "Expeditionszonen"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles vom ersten Schlafplatz bis zum Räumen verdorbenen Geländes und dem Ausbrüten deines ersten Drachen.",
+          "href": "/guide/dragongrove-beginner-guide"
+        },
+        {
+          "badge": "Kern",
+          "title": "Spielmechaniken",
+          "description": "Tageszyklen, elementare Pflege, Terraforming und die Ressourcenkreisläufe, die das Hainwachstum antreiben.",
+          "href": "/mechanics/dragongrove-gameplay"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Drachen-Affinitäts-Guide",
+          "description": "Ordne Glut-, Grün-, Flut-, Sturm- und Schattendrachen ihren Heimatbiotopen und besten Rollen zu.",
+          "href": "/mechanics/dragongrove-features"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Fortschrittsstufen",
+          "description": "Alle fünf Hain-Stufen von der Grünenden Lichtung bis zum Prismatischen Heiligtum mit ihren Freischaltbedingungen.",
+          "href": "/mechanics/dragongrove-progression"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Ressourcen-Farming",
+          "description": "Beste Routen und Veredelungsmethoden für Holz, Erze, drakonische Nebenprodukte und elementare Katalysatoren.",
+          "href": "/items/dragongrove-resources"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Belohnungen & Drop-Raten",
+          "description": "Truhenstufen, Boss-Drops und effiziente Farmrouten für jede Phase des Hains.",
+          "href": "/items/dragongrove-rewards"
+        },
+        {
+          "badge": "Neu",
+          "title": "Handwerksstationen",
+          "description": "Werkbankstufen von der Tischlerbank bis zum Brutflammen-Herd und ihre Rezepte.",
+          "href": "/items/dragongrove-crafting"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Welt & Biome",
+          "description": "Geschichtete Inseln, Windkanäle und die elementaren Biome, die die Lebensraumplanung der Drachen prägen.",
+          "href": "/maps/dragongrove-world"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Erscheinungsdatum",
+          "description": "Plattformen, Playtest-Wellen, Demo-Pläne und die Roadmap bis zum vollständigen Launch.",
+          "href": "/updates/dragongrove-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Dragongrove?",
+      "paragraphs": [
+        "Dragongrove ist ein Fantasy-Heiligtum-Management- und Abenteuerspiel, in dem du einen zerbrochenen Hain wiederherstellst und mythische Drachen aufziehst. Du beseitigst verdorbenen Wildwuchs, baust elementare Lebensräume und schließt Bindungen zu Drachen, die jeweils einer Affinität wie Glut, Grün, Flut, Sturm oder Schatten angehören.",
+        "Der Fortschritt läuft in einem Tag-Nacht-Zyklus aus Sammeln, Terraforming, Zucht und Expeditionen. Wenn dein Hain-Heiligtum-Level steigt, schaltest du dualelementare Lebensräume, Kreuzungsaltäre und Höhenexpeditionsrouten voller Relikte, seltener Samen und Ur-Dracheneier frei."
+      ],
+      "stats": [
+        {
+          "label": "Genre",
+          "value": "Heiligtum-Sim-RPG"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Affinitäten",
+          "value": "5"
+        },
+        {
+          "label": "Hain-Stufen",
+          "value": "5"
+        },
+        {
+          "label": "Lebensphasen",
+          "value": "4"
+        },
+        {
+          "label": "Expeditionszonen",
+          "value": "5"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Dragongrove Wiki erkunden",
+      "description": "Dein Hub für Dragongrove-Guides zu Einsteiger-Setup, elementarer Drachenpflege, Hain-Fortschritt, Puzzle-Schreinen, Anpassung, Belohnungen und Release-News.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Dragongrove Einsteiger-Guide",
+          "description": "Neue Spieler lernen den grundlegenden Spielkreislauf, das erste Setup und den frühen Fortschrittspfad kennen. Er behandelt die Interaktion mit Drachen, das Beseitigen verdorbenen Wildwuchses und den vertrauten Umgang mit dem Hain.",
+          "href": "/guide/dragongrove-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erkunde den Hain und räume nebelbedeckte Flächen, um deinen ersten Bauplatz zu öffnen."
+            },
+            {
+              "label": "2",
+              "detail": "Baue einfache Nistplätze, einen Futtertrog und eine Holzfällerbank."
+            },
+            {
+              "label": "3",
+              "detail": "Brüte oder adoptiere deinen ersten Gefährten aus und füttere und pflege ihn täglich."
+            },
+            {
+              "label": "4",
+              "detail": "Weise deinem Drachen eine Aufgabe zu, die zu seiner elementaren Affinität passt."
+            },
+            {
+              "label": "5",
+              "detail": "Richte eine morgendliche Ernte-Routine für Holz, Sonnentau und Glutbeere ein."
+            },
+            {
+              "label": "6",
+              "detail": "Erhöhe dein Hain-Heiligtum-Level, um die ersten elementaren Schlafplätze freizuschalten."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Dragongrove Gameplay-Guide",
+          "description": "Ein umfassender Überblick über die Kernsysteme, einschließlich elementarer Drachenpflege, Hain-Terraforming, Ressourcenmanagement und täglicher Expeditionskreisläufe.",
+          "href": "/mechanics/dragongrove-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kernkreislauf",
+              "detail": "Pflegen, ernten, terraformen und erkunden über einen Tag-Nacht-Zyklus."
+            },
+            {
+              "label": "Affinität",
+              "detail": "Ordne Drachen ihrem Heimatbiotop zu, um Stimmung und Essenzproduktion zu steigern."
+            },
+            {
+              "label": "Expedition",
+              "detail": "Schicke elementare Teams in Gefahrenzonen für Relikte und seltene Samen."
+            },
+            {
+              "label": "Wirtschaft",
+              "detail": "Balanciere Rohstoffe gegen veredelte Waren, um Engpässe zu vermeiden."
+            },
+            {
+              "label": "Lebensraum",
+              "detail": "Gruppiere Lebensräume, um passive Synergieboni auszulösen."
+            },
+            {
+              "label": "Jahreszeiten",
+              "detail": "Dynamisches Wetter verschiebt Ressourcenschübe und Schlüpflingsspawns."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dragongrove Drachen-Guide",
+          "description": "Stellt Drachengefährten, ihre elementaren Affinitäten, Lebensphasen und Zuchtoptionen für Hüter vor, die eine ausgewogene Aufstellung aufbauen.",
+          "href": "/mechanics/dragongrove-features",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Glutwyrm und Grünling-Drache tragen früh zu Schmieden und Ernteerträgen bei."
+            },
+            {
+              "label": "A",
+              "detail": "Flutwyrm und Sturm-Drache glänzen bei Bewässerung und schnellem Spähen."
+            },
+            {
+              "label": "B",
+              "detail": "Schattendrache glänzt bei Nachtverstecken, braucht aber einen Schattenlebensraum."
+            },
+            {
+              "label": "C",
+              "detail": "Startrassen wie Glutling und Wellenschlange fallen später ab."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Dragongrove Puzzle-Guide",
+          "description": "Ein Guide zum Lösen der räumlichen Puzzle-Schreine des Hains, zum Verständnis der Pflanzenabgleich-Mechanik und zur Verbesserung der Puzzle-Effizienz.",
+          "href": "/guide/dragongrove-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prüfe das Layout des Schreins, bevor du etwas bewegst, um das beabsichtigte Muster zu erkennen."
+            },
+            {
+              "label": "2",
+              "detail": "Ordne Pflanzen nach elementarer Farbe zu, um das versiegelte Haintor zu öffnen."
+            },
+            {
+              "label": "3",
+              "detail": "Drehe und richte Runensäulen aus, damit sich ihre Lichtstrahlen verbinden."
+            },
+            {
+              "label": "4",
+              "detail": "Hole die Belohnungstruhe ab, die nach jedem gelösten Schrein freigeschaltet wird."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Dragongrove Level-Guide",
+          "description": "Erklärt die Hain-Stufenstruktur, Drachenkapazität, Machtanforderungen und wie Inhalte erweitert werden, während Hüter voranschreiten.",
+          "href": "/mechanics/dragongrove-progression",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Stufe I",
+              "detail": "Grünende Lichtung - 4 Drachen, einfache Nester und das Sägewerk."
+            },
+            {
+              "label": "Stufe II",
+              "detail": "Flüsterhain - 8 Drachen, Steinschlafplätze und der Kräutergarten."
+            },
+            {
+              "label": "Stufe III",
+              "detail": "Schimmernde Baumkrone - 16 Drachen, dualelementare Lebensräume und der Altar."
+            },
+            {
+              "label": "Stufe IV",
+              "detail": "Drakonische Bastion - 28 Drachen, Himmelsgewölbe und die verzauberte Brutstätte."
+            },
+            {
+              "label": "Stufe V",
+              "detail": "Prismatisches Heiligtum - 45+ Drachen, legendäre Monolithen und die Ley-Leitung."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dragongrove Anpassungs-Guide",
+          "description": "Behandelt Drachenkosmetik, Sättel, Accessoires, Hüterrelikte und Heiligtum-Deko, die jeden Gefährten und Hain einzigartig machen.",
+          "href": "/items/dragongrove-equipment",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sättel",
+              "detail": "Herstellbare Sättel verändern die Flugsteuerung und schalten neue Routen frei."
+            },
+            {
+              "label": "Schuppen",
+              "detail": "Kosmetische Schuppenfarben und -muster stammen aus seltenen Zuchtpaaren."
+            },
+            {
+              "label": "Relikte",
+              "detail": "Hüterrelikte geben passive Boni auf Zähmung und Erkundung."
+            },
+            {
+              "label": "Deko",
+              "detail": "Kristalllampen und Totems gewähren Mikrobuffs für nahe Lebensräume."
+            },
+            {
+              "label": "Auren",
+              "detail": "Legendäre kosmetische Auren markieren fehlerfreie Expeditionsabschlüsse."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dragongrove Münzen-Guide",
+          "description": "Erklärt das Währungs- und Belohnungssystem, einschließlich Gold, Hain-Essenz und der seltenen Materialien für Upgrades und Zucht.",
+          "href": "/items/dragongrove-rewards",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Gold",
+              "detail": "Hauptmünze für Lebensraumunterhalt, Handelsgeschäfte und Werkzeugreparatur."
+            },
+            {
+              "label": "Essenz",
+              "detail": "Hain-Essenz treibt Terraforming- und Landrodungs-Upgrades an."
+            },
+            {
+              "label": "Splitter",
+              "detail": "Sonnenstein-Splitter schalten Stufe-II-Lebensräume und Steinabbau frei."
+            },
+            {
+              "label": "Bernstein",
+              "detail": "Drachenbernstein betreibt Kreuzungsaltäre und seltene Schlafplätze."
+            },
+            {
+              "label": "Gluten",
+              "detail": "Prismatische Gluten veredeln Endgame-Relikte und legendäre Ausrüstung."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dragongrove Release-Guide",
+          "description": "Bietet die neuesten Informationen zu Release-Zeitpunkt, unterstützten Plattformen, Geräteanforderungen und offiziellen Ankündigungen.",
+          "href": "/updates/dragongrove-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plattform",
+              "detail": "Zuerst PC auf Steam, Konsolen-Ports nach dem Launch erwartet."
+            },
+            {
+              "label": "Playtest",
+              "detail": "Geschlossene Playtests laufen in Wellen über Community-Anmeldungen."
+            },
+            {
+              "label": "Demo",
+              "detail": "Eine kostenlose öffentliche Steam-Demo ist für eine saisonale Showcase geplant."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Early Access zielt mit iterativen Updates auf die Kernsysteme."
+            },
+            {
+              "label": "Launch",
+              "detail": "Die vollständige 1.0-Veröffentlichung fügt Endgame-Zucht und weltweiten Handel hinzu."
+            },
+            {
+              "label": "Spezifikationen",
+              "detail": "Empfohlen: 16 GB RAM, RTX 3060 und 30 GB NVMe-SSD."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Dragongrove.",
+      "items": [
+        {
+          "question": "Was ist Dragongrove?",
+          "answer": "Dragongrove ist ein Fantasy-Heiligtum-Managementspiel, in dem du einen magischen Hain wiederherstellst und elementare Drachen aufziehst. Du räumst verdorbenes Gelände, baust Lebensräume, züchtest neue Drachen und schickst Expeditionsteams in gefährliche Biome."
+        },
+        {
+          "question": "Wie erhöhe ich mein Hain-Heiligtum-Level in Dragongrove?",
+          "answer": "Schließe Wiederherstellungs-Meilensteine ab, brüte neue Arten aus und halte Gefährten glücklich. Jede Stufe schaltet neue Lebensraumflächen und Gebäude wie die Kinderstube und die Alchemistische Schmiede frei."
+        },
+        {
+          "question": "Was sind die elementaren Affinitäten in Dragongrove?",
+          "answer": "Drachen gehören Affinitäten wie Glut, Grün, Flut, Sturm und Schatten an. Passt ein Drache zu seinem Heimatbiotop, steigert das Stimmung, Essenzproduktion und Expeditionsvorteile."
+        },
+        {
+          "question": "Wie funktionieren Expeditionen in Dragongrove?",
+          "answer": "Du schickst elementare Teams in Zonen wie das Dornwald-Dickicht oder die Frostfall-Kluft. Passe Gruppenresistenzen ans Biotop an, packe Proviant ein und kehre mit Relikten, Runen und seltenen Eiern zurück."
+        },
+        {
+          "question": "Ist Dragongrove kostenlos spielbar?",
+          "answer": "Dragongrove ist als kostenpflichtige PC-Veröffentlichung auf Steam mit einer Early-Access-Phase geplant, gefolgt von Konsolen-Ports nach dem Launch."
+        },
+        {
+          "question": "Woher kommen die Belohnungen in Dragongrove?",
+          "answer": "Belohnungen stammen aus Puzzle-Schreinen, Elite-Wächtern und Boss-Drop-Pools. Im Dragongrove-Belohnungsguide findest du Truhenstufen, Drop-Raten und Farmrouten."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Dragongrove zu erkunden?",
+      "description": "Von deinem ersten Drachengefährten bis zu über 200 räumlichen Puzzle-Leveln hält unser Community-Wiki kostenlose, aktuelle Guides für dich bereit.",
+      "primary": "Lies den Einsteiger-Guide",
+      "secondary": "Auf Meta Quest spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Dragongrove Guides & Tipps",
+    "overviewDescription": "Einsteiger-Guides, komplette Walkthroughs, Reviews und praktische Tipps, mit denen jeder Hüter Dragongrove meistert."
+  },
+  "maps": {
+    "overviewTitle": "Dragongrove Karten & Gebiete",
+    "overviewDescription": "Erkunde Dragongrove-Karten, Orte, Regionen und Weltguides für jede Heiligtum-Zone."
+  },
+  "mechanics": {
+    "overviewTitle": "Dragongrove Spielmechaniken",
+    "overviewDescription": "Verstehe Quests, Fortschritt, Ziele und die Kern-Gameplay-Systeme hinter dem Hain."
+  },
+  "items": {
+    "overviewTitle": "Dragongrove Gegenstände & Handwerk",
+    "overviewDescription": "Durchstöbere Dragongrove-Gegenstände, Ausrüstung, Handwerksrezepte, Ressourcen und Belohnungen an einem Ort."
+  },
+  "updates": {
+    "overviewTitle": "Dragongrove News & Aktualisierungen",
+    "overviewDescription": "Die neuesten Dragongrove-Updates, Release-Date-News, Ankündigungen und Patch-Berichte."
+  },
+  "community": {
+    "overviewTitle": "Dragongrove-Community",
+    "overviewDescription": "Dragongrove-Community-Links, Reddit- und Discord-Hubs, Entwickler-News und FAQ-Antworten."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Dragongrove Wiki",
+    "about": "Das Dragongrove Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Drachengefährten, räumlichen Puzzles, Leveln, Anpassung, Münzen und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Dragongrove Wiki. Nicht mit Schell Games oder Meta verbunden.",
+    "description": "Kostenloses gemütliches 3D-Räumliches-Puzzle-Spiel mit magischen Drachengefährten auf Meta Quest.",
+    "playGame": "Dragongrove spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Website",
+    "beginnerGuide": "Einsteiger-Guide",
+    "mapGuide": "Karten-Guide",
+    "gameplayGuide": "Gameplay-Guide",
+    "craftingGuide": "Handwerks-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

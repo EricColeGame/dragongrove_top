@@ -1,1 +1,510 @@
-{}
+{
+  "site": {
+    "name": "Dragongrove Wiki",
+    "shortName": "Dragongrove",
+    "tagline": "Guides de dragons, astuces de puzzle et actus",
+    "description": "Dragongrove est un jeu d'aventure fantastique axé sur l'exploration d'environnements magiques, la découverte de dragons et la création de liens avec des créatures mythiques.",
+    "legalNotice": "Wiki de fans non officiel. Fait par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "maps": "Cartes",
+    "mechanics": "Mécaniques",
+    "items": "Objets",
+    "updates": "Actus",
+    "community": "Communauté"
+  },
+  "home": {
+    "meta": {
+      "title": "Dragongrove Wiki - Dragons, guides et actus",
+      "description": "Explorez le Dragongrove Wiki pour des guides de dragons, des astuces de jeu, des infos sur les créatures, des actus et des ressources utiles aux joueurs d'aventure fantastique."
+    },
+    "hero": {
+      "eyebrow": "Jeu d'aventure fantastique avec des dragons",
+      "title": "Dragongrove Wiki",
+      "description": "Dragongrove est un jeu d'aventure fantastique axé sur l'exploration d'environnements magiques, la découverte de dragons et la création de liens avec des créatures mythiques.",
+      "stats": [
+        "Visites totales",
+        "Dragons disponibles",
+        "Codes actifs",
+        "Actus quotidiennes"
+      ],
+      "primaryCta": "Jouer gratuitement sur Meta Quest",
+      "secondaryCta": "Guide du débutant",
+      "tertiaryCta": "FAQ officielle",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières actus",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre voyage dans Dragongrove",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez la boucle principale : éliminez la végétation corrompue, construisez vos premiers nids et faites éclore un dragon compagnon."
+        },
+        {
+          "number": "2",
+          "title": "Montée de niveau la plus rapide",
+          "description": "Augmentez vite votre niveau de Sanctuaire du Bosquet en accomplissant des jalons, en faisant éclore de nouvelles espèces et en gardant vos compagnons heureux."
+        },
+        {
+          "number": "3",
+          "title": "Meilleurs spots de farm",
+          "description": "Farmez le Bois du Bosquet, la Rosée Ensoleillée et la Baie Braise sur des routes quotidiennes efficaces autour du sanctuaire."
+        },
+        {
+          "number": "4",
+          "title": "Comment évoluer",
+          "description": "Faites passer vos dragons de Dragonnet à Ancien Primordial grâce à une alimentation, un toilettage et des soins d'habitat adaptés à leur affinité."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances du moment",
+      "quickLinks": [
+        "Progression du bosquet",
+        "Affinités des dragons",
+        "Farm de ressources",
+        "Zones d'expédition"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Tout ce qu'il faut, de votre premier perchoir au nettoyage des terrains corrompus et à l'éclosion de votre premier dragon.",
+          "href": "/guide/dragongrove-beginner-guide"
+        },
+        {
+          "badge": "Essentiel",
+          "title": "Mécaniques de jeu",
+          "description": "Cycles quotidiens, soins élémentaires, terraformation et boucles de ressources qui font croître le bosquet.",
+          "href": "/mechanics/dragongrove-gameplay"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide des affinités de dragons",
+          "description": "Associez les dragons Braise, Verdoyant, Torrent, Bourrasque et Ombreux à leurs biomes natals et à leurs meilleurs rôles.",
+          "href": "/mechanics/dragongrove-features"
+        },
+        {
+          "badge": "Actualisé",
+          "title": "Paliers de progression",
+          "description": "Les cinq paliers du bosquet, de la Clairière Verdoyante au Sanctuaire Prismatique, avec leurs conditions de déblocage.",
+          "href": "/mechanics/dragongrove-progression"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Farm de ressources",
+          "description": "Meilleures routes et méthodes de raffinage pour le bois, les minerais, les sous-produits draconiques et les catalyseurs élémentaires.",
+          "href": "/items/dragongrove-resources"
+        },
+        {
+          "badge": "Actualisé",
+          "title": "Récompenses et taux de butin",
+          "description": "Paliers de coffre, butin de boss et routes de farm efficaces pour chaque étape du bosquet.",
+          "href": "/items/dragongrove-rewards"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Postes d'artisanat",
+          "description": "Paliers d'établis, du Banc de Charpentier au Foyer Flamme de Couvée, et leurs recettes.",
+          "href": "/items/dragongrove-crafting"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Monde et biomes",
+          "description": "Îles superposées, tunnels de vent et biomes élémentaires qui façonnent l'aménagement des habitats de dragons.",
+          "href": "/maps/dragongrove-world"
+        },
+        {
+          "badge": "Actualisé",
+          "title": "Date de sortie",
+          "description": "Plateformes, vagues de tests, plans de démo et feuille de route vers la sortie complète.",
+          "href": "/updates/dragongrove-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Dragongrove ?",
+      "paragraphs": [
+        "Dragongrove est un jeu de gestion de sanctuaire et d'aventure fantastique où vous restaurez un bosquet fracturé et élevez des dragons mythiques. Vous éliminez la végétation corrompue, construisez des habitats élémentaires et créez des liens avec des dragons appartenant à une affinité telle que Braise, Verdoyant, Torrent, Bourrasque ou Ombreux.",
+        "La progression repose sur un cycle jour-nuit de cueillette, de terraformation, d'élevage et d'expéditions. À mesure que votre niveau de Sanctuaire du Bosquet augmente, vous débloquez des habitats bi-élémentaires, des autels de croisement et des routes d'expédition en altitude remplies de reliques, de graines rares et d'œufs de dragons primordiaux."
+      ],
+      "stats": [
+        {
+          "label": "Genre",
+          "value": "RPG de simulation de sanctuaire"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Affinités",
+          "value": "5"
+        },
+        {
+          "label": "Paliers du bosquet",
+          "value": "5"
+        },
+        {
+          "label": "Étapes de vie",
+          "value": "4"
+        },
+        {
+          "label": "Zones d'expédition",
+          "value": "5"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorer le Dragongrove Wiki",
+      "description": "Votre hub de guides Dragongrove couvrant la configuration du débutant, les soins élémentaires des dragons, la progression du bosquet, les sanctuaires de puzzle, la personnalisation, les récompenses et les actus de sortie.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant Dragongrove",
+          "description": "Les nouveaux joueurs découvrent la boucle de jeu de base, la configuration initiale et le début de la progression. Il couvre l'interaction avec les dragons, l'élimination de la végétation corrompue et la familiarisation avec le bosquet.",
+          "href": "/guide/dragongrove-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Explorez le bosquet et nettoyez les parcelles brumeuses pour ouvrir votre premier espace de construction."
+            },
+            {
+              "label": "2",
+              "detail": "Construisez des nids de base, une mangeoire et un établi de bûcheron."
+            },
+            {
+              "label": "3",
+              "detail": "Faites éclore ou adoptez votre premier compagnon, puis nourrissez-le et toilettez-le chaque jour."
+            },
+            {
+              "label": "4",
+              "detail": "Assignez à votre dragon une tâche correspondant à son affinité élémentaire."
+            },
+            {
+              "label": "5",
+              "detail": "Établissez une routine de récolte matinale de bois, de Rosée Ensoleillée et de Baie Braise."
+            },
+            {
+              "label": "6",
+              "detail": "Augmentez votre niveau de Sanctuaire du Bosquet pour débloquer les premiers perchoirs élémentaires."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide de jeu Dragongrove",
+          "description": "Un aperçu complet des systèmes principaux, incluant les soins élémentaires des dragons, la terraformation du bosquet, la gestion des ressources et les boucles d'expédition quotidiennes.",
+          "href": "/mechanics/dragongrove-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Boucle principale",
+              "detail": "Nourrir, récolter, terraformer et explorer au fil d'un cycle jour-nuit."
+            },
+            {
+              "label": "Affinité",
+              "detail": "Associez les dragons à leur biome natal pour augmenter l'humeur et la production d'essence."
+            },
+            {
+              "label": "Expédition",
+              "detail": "Envoyez des équipes élémentaires dans des zones à risque pour obtenir des reliques et des graines rares."
+            },
+            {
+              "label": "Économie",
+              "detail": "Équilibrez matières premières et biens raffinés pour éviter les goulots d'étranglement."
+            },
+            {
+              "label": "Habitat",
+              "detail": "Regroupez les habitats pour déclencher des bonus de synergie passifs."
+            },
+            {
+              "label": "Saisons",
+              "detail": "La météo dynamique modifie les pics de ressources et l'apparition des nouveau-nés."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide des dragons Dragongrove",
+          "description": "Présente les dragons compagnons, leurs affinités élémentaires, leurs étapes de vie et les options d'élevage pour les gardiens qui bâtissent un effectif équilibré.",
+          "href": "/mechanics/dragongrove-features",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Le Wyrm de Braise et le Draco Verdoyant assurent la forge précoce et les rendements agricoles."
+            },
+            {
+              "label": "A",
+              "detail": "Le Wyrm Torrent et le Draco Bourrasque excellent en irrigation et en éclairage rapide."
+            },
+            {
+              "label": "B",
+              "detail": "Le Draco Ombreux brille dans les cachettes nocturnes mais a besoin d'un habitat ombragé."
+            },
+            {
+              "label": "C",
+              "detail": "Les races de départ comme le Braisillon et le Serpent Ondulant déclinent ensuite."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des puzzles Dragongrove",
+          "description": "Un guide consacré à la résolution des sanctuaires de puzzle spatiaux du bosquet, à la compréhension de la mécanique d'association des plantes et à l'amélioration de l'efficacité.",
+          "href": "/guide/dragongrove-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Examinez la disposition du sanctuaire avant de bouger quoi que ce soit pour repérer le motif voulu."
+            },
+            {
+              "label": "2",
+              "detail": "Associez les plantes par couleur élémentaire pour ouvrir la porte scellée du bosquet."
+            },
+            {
+              "label": "3",
+              "detail": "Faites pivoter et alignez les piliers runiques pour que leurs faisceaux lumineux se connectent."
+            },
+            {
+              "label": "4",
+              "detail": "Récupérez le coffre de récompense qui se débloque après chaque sanctuaire résolu."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide des niveaux Dragongrove",
+          "description": "Explique la structure des paliers du bosquet, la capacité en dragons, les exigences de puissance et l'extension du contenu à mesure que vous progressez.",
+          "href": "/mechanics/dragongrove-progression",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Palier I",
+              "detail": "Clairière Verdoyante - 4 dragons, nids de base et la scierie."
+            },
+            {
+              "label": "Palier II",
+              "detail": "Clairière Murmurante - 8 dragons, perchoirs de pierre et le jardin d'herbes."
+            },
+            {
+              "label": "Palier III",
+              "detail": "Canopée Chatoyante - 16 dragons, habitats bi-élémentaires et l'autel."
+            },
+            {
+              "label": "Palier IV",
+              "detail": "Bastion Draconique - 28 dragons, voûtes célestes et le couvoir enchanté."
+            },
+            {
+              "label": "Palier V",
+              "detail": "Sanctuaire Prismatique - plus de 45 dragons, monolithes légendaires et le conduit tellurique."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide de personnalisation Dragongrove",
+          "description": "Couvre les cosmétiques de dragons, les selles, les accessoires, les reliques de gardien et la décoration du sanctuaire qui rendent chaque compagnon et chaque bosquet uniques.",
+          "href": "/items/dragongrove-equipment",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Selles",
+              "detail": "Les selles fabricables modifient le maniement en vol et débloquent de nouvelles routes."
+            },
+            {
+              "label": "Écailles",
+              "detail": "Les teintures et motifs cosmétiques d'écailles proviennent de couples d'élevage rares."
+            },
+            {
+              "label": "Reliques",
+              "detail": "Les reliques de gardien ajoutent des bonus passifs à l'apprivoisement et à l'exploration."
+            },
+            {
+              "label": "Décor",
+              "detail": "Les lampes de cristal et les totems accordent des micro-bonus aux habitats proches."
+            },
+            {
+              "label": "Auras",
+              "detail": "Les auras cosmétiques légendaires récompensent les expéditions parfaites."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guide des pièces Dragongrove",
+          "description": "Explique le système de monnaie et de récompenses, incluant l'or, l'essence du bosquet et les matériaux rares utilisés pour les améliorations et l'élevage.",
+          "href": "/items/dragongrove-rewards",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Or",
+              "detail": "Monnaie principale pour l'entretien des habitats, le commerce et la réparation d'outils."
+            },
+            {
+              "label": "Essence",
+              "detail": "L'Essence du Bosquet alimente les améliorations de terraformation et de défrichage."
+            },
+            {
+              "label": "Éclats",
+              "detail": "Les Éclats de Pierre Solaire débloquent les habitats de palier II et l'extraction de pierre."
+            },
+            {
+              "label": "Ambre",
+              "detail": "L'Ambre de Dragon alimente les autels de croisement et les perchoirs rares."
+            },
+            {
+              "label": "Braises",
+              "detail": "Les Braises Prismatiques raffinent les reliques de fin de jeu et l'équipement légendaire."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guide de sortie Dragongrove",
+          "description": "Fournit les dernières informations sur la date de sortie, les plateformes prises en charge, les configurations requises et les annonces officielles.",
+          "href": "/updates/dragongrove-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plateforme",
+              "detail": "PC d'abord sur Steam, avec des portages console attendus après la sortie."
+            },
+            {
+              "label": "Test",
+              "detail": "Les tests fermés se déroulent par vagues via les inscriptions de la communauté."
+            },
+            {
+              "label": "Démo",
+              "detail": "Une démo Steam publique gratuite est prévue pour une vitrine saisonnière."
+            },
+            {
+              "label": "Feuille de route",
+              "detail": "L'Accès Anticipé cible les systèmes principaux avec des mises à jour itératives."
+            },
+            {
+              "label": "Sortie",
+              "detail": "La version complète 1.0 ajoute l'élevage de fin de jeu et la distribution mondiale."
+            },
+            {
+              "label": "Config",
+              "detail": "Recommandé : 16 Go de RAM, RTX 3060 et SSD NVMe de 30 Go."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Réponses rapides aux questions les plus courantes sur Dragongrove.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Dragongrove ?",
+          "answer": "Dragongrove est un jeu de gestion de sanctuaire fantastique où vous restaurez un bosquet magique et élevez des dragons élémentaires. Vous nettoyez des terrains corrompus, construisez des habitats, élevez de nouveaux dragons et envoyez des équipes d'expédition dans des biomes dangereux."
+        },
+        {
+          "question": "Comment augmenter mon niveau de Sanctuaire du Bosquet dans Dragongrove ?",
+          "answer": "Accomplissez des jalons de restauration, faites éclore de nouvelles espèces et gardez vos compagnons heureux. Chaque niveau débloque de nouvelles surfaces d'habitat et des structures comme la Pouponnière et la Forge Alchimique."
+        },
+        {
+          "question": "Quelles sont les affinités élémentaires dans Dragongrove ?",
+          "answer": "Les dragons appartiennent à des affinités telles que Braise, Verdoyant, Torrent, Bourrasque et Ombreux. Associer un dragon à son biome natal augmente l'humeur, la production d'essence et les avantages d'expédition."
+        },
+        {
+          "question": "Comment fonctionnent les expéditions dans Dragongrove ?",
+          "answer": "Vous envoyez des équipes élémentaires dans des zones comme le Fourré des Ronces ou la Crevasse Gelée. Adaptez les résistances du groupe au biome, emportez des provisions et revenez avec reliques, runes et œufs rares."
+        },
+        {
+          "question": "Dragongrove est-il gratuit ?",
+          "answer": "Dragongrove est prévu comme une sortie payante sur PC via Steam avec une phase d'Accès Anticipé, suivie de portages console après la sortie."
+        },
+        {
+          "question": "D'où viennent les récompenses dans Dragongrove ?",
+          "answer": "Les récompenses proviennent des sanctuaires de puzzle, des sentinelles d'élite et des butins de boss. Consultez le guide des récompenses Dragongrove pour les paliers de coffre, les taux de butin et les routes de farm."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à explorer Dragongrove ?",
+      "description": "De votre premier dragon compagnon à plus de 200 niveaux de puzzle spatiaux, notre wiki communautaire vous propose des guides gratuits et à jour.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Meta Quest"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides et astuces Dragongrove",
+    "overviewDescription": "Guides du débutant, soluces complètes, tests et astuces pratiques pour aider chaque gardien à maîtriser Dragongrove."
+  },
+  "maps": {
+    "overviewTitle": "Cartes et zones Dragongrove",
+    "overviewDescription": "Explorez les cartes, lieux, régions et guides du monde de Dragongrove couvrant chaque zone du sanctuaire."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de jeu Dragongrove",
+    "overviewDescription": "Comprenez les quêtes, la progression, les objectifs et les systèmes de jeu principaux derrière le bosquet."
+  },
+  "items": {
+    "overviewTitle": "Objets et artisanat Dragongrove",
+    "overviewDescription": "Parcourez les objets, équipements, recettes d'artisanat, ressources et récompenses de Dragongrove en un seul endroit."
+  },
+  "updates": {
+    "overviewTitle": "Actus et mises à jour Dragongrove",
+    "overviewDescription": "Les dernières actus de Dragongrove, les infos sur la date de sortie, les annonces et la couverture des correctifs."
+  },
+  "community": {
+    "overviewTitle": "Communauté Dragongrove",
+    "overviewDescription": "Liens de la communauté Dragongrove, hubs Reddit et Discord, actus du développeur et réponses aux questions fréquentes."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour l'instant. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Dragongrove Wiki",
+    "about": "Dragongrove Wiki est un hub de guides indépendant créé par des fans, couvrant les dragons compagnons, les puzzles spatiaux, les niveaux, la personnalisation, les pièces et l'essentiel du jeu pour les nouveaux joueurs comme les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Dragongrove Wiki. Non affilié à Schell Games ni à Meta.",
+    "description": "Jeu de puzzle spatial 3D cozy gratuit avec des dragons compagnons magiques sur Meta Quest.",
+    "playGame": "Jouer à Dragongrove",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "Site officiel",
+    "beginnerGuide": "Guide du débutant",
+    "mapGuide": "Guide des cartes",
+    "gameplayGuide": "Guide de jeu",
+    "craftingGuide": "Guide d'artisanat",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}

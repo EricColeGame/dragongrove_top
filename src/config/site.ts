@@ -25,11 +25,14 @@ export const siteConfig: SiteConfig = {
   tagline: "Dragon Guides, Gameplay Tips & Updates",
   description: "Dragongrove is a fantasy adventure game focused on exploring magical environments, discovering dragons, and building connections with mythical creatures.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://dragongrove.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://dragongrove.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://schellgames.com/portfolio/dragon-grove",
+  supportEmail: "support@dragongrove.top",
+  gameUrl: "https://www.meta.com/en-gb/experiences/dragon-grove/8994417270670799",
   heroVideoId: "xSs4guNANkU", // Dragon Grove - Announcement Trailer (Schell Games)
   social: {
+    discord: "https://discord.gg/schellgames",
     youtube: "https://www.youtube.com/@SchellGames",
+    twitter: "https://x.com/schellgames",
+    tiktok: "https://www.tiktok.com/@schellgames",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

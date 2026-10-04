@@ -17,7 +17,10 @@ type Home = typeof en.home;
 const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swords, MapIcon, Users, Trophy, Skull, Zap, CircleHelp, ScrollText];
 
 // Homepage trailer video ID (Dragon Grove - Announcement Trailer, Schell Games)
-const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "xSs4guNANkU";
+
+// Official Dragon Grove FAQ (Schell Games)
+const DRAGONGROVE_FAQ_URL = "https://schellgames.com/blog/dragon-grove-frequently-asked-questions";
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
   return (
@@ -33,6 +36,11 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         </div>
         <p className="mx-auto mt-5 max-w-3xl text-base leading-relaxed text-muted-foreground">{home.hero.description}</p>
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+          <Button asChild size="lg"><Link href={siteConfig.gameUrl || "#"}>{home.hero.primaryCta}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide/dragongrove-beginner-guide", locale)}>{home.hero.secondaryCta}</Link></Button>
+          <Button asChild size="lg" variant="ghost"><a href={DRAGONGROVE_FAQ_URL} target="_blank" rel="noopener noreferrer">{home.hero.tertiaryCta}</a></Button>
+        </div>
       </section>
 
       {/* Official trailer — must sit immediately after the Hero section */}

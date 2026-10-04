@@ -21,11 +21,12 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
+  const description = "Explore the Dragongrove Wiki for dragon guides, gameplay tips, creature information, updates, and useful resources for fantasy adventure players.";
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
     title: { default: "Dragongrove Wiki", template: "%s" },
-    description: "Explore the Dragongrove Wiki for dragon guides, gameplay tips, creature information, updates, and useful resources for fantasy adventure players.",
+    description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -35,8 +36,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
       apple: "/apple-touch-icon.png",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Dragongrove Wiki", description, images: [{ url: image, width: 1920, height: 1080, alt: "Dragongrove key art" }] },
+    twitter: { card: "summary_large_image", title: "Dragongrove Wiki", description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -53,6 +54,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.social?.youtube, siteConfig.social?.discord, siteConfig.social?.twitter, siteConfig.social?.tiktok].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

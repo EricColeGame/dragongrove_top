@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "maps": "Maps",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -441,7 +447,30 @@
       "secondary": "Play on Meta Quest"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Dragongrove Guides & Tips",
+    "overviewDescription": "Beginner guides, full walkthroughs, reviews, and practical tips to help every keeper master Dragongrove."
+  },
+  "maps": {
+    "overviewTitle": "Dragongrove Maps & Areas",
+    "overviewDescription": "Explore Dragongrove maps, locations, regions, and world guides covering every sanctuary zone."
+  },
+  "mechanics": {
+    "overviewTitle": "Dragongrove Gameplay Mechanics",
+    "overviewDescription": "Understand Dragongrove quests, progression, objectives, and the core gameplay systems behind the grove."
+  },
+  "items": {
+    "overviewTitle": "Dragongrove Items & Crafting",
+    "overviewDescription": "Browse Dragongrove items, equipment, crafting recipes, resources, and rewards in one place."
+  },
+  "updates": {
+    "overviewTitle": "Dragongrove News & Updates",
+    "overviewDescription": "The latest Dragongrove updates, release date news, announcements, and patch coverage."
+  },
+  "community": {
+    "overviewTitle": "Dragongrove Community",
+    "overviewDescription": "Dragongrove community links, Reddit and Discord hubs, developer news, and FAQ answers."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -472,9 +501,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "mapGuide": "Map Guide",
+    "gameplayGuide": "Gameplay Guide",
+    "craftingGuide": "Crafting Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

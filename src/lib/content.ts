@@ -237,39 +237,52 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
+  guide: "Guides & Tips",
   maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  mechanics: "Gameplay Mechanics",
+  items: "Items & Crafting",
+  updates: "News & Updates",
+  community: "Community",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
-};
-
-// locale → 分组标题映射
+// locale → 分组标题映射（未列出的语言回退到英文默认）
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  de: {
+    guide: "Guides & Tipps",
+    maps: "Karten & Gebiete",
+    mechanics: "Spielmechaniken",
+    items: "Gegenstände & Handwerk",
+    updates: "News & Updates",
+    community: "Community",
+  },
+  es: {
+    guide: "Guías y consejos",
+    maps: "Mapas y zonas",
+    mechanics: "Mecánicas de juego",
+    items: "Objetos y creación",
+    updates: "Noticias y novedades",
+    community: "Comunidad",
+  },
+  fr: {
+    guide: "Guides et astuces",
+    maps: "Cartes et zones",
+    mechanics: "Mécaniques de jeu",
+    items: "Objets et artisanat",
+    updates: "Actus et mises à jour",
+    community: "Communauté",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  de: "Übersicht",
+  es: "Resumen",
+  fr: "Aperçu",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "maps", "mechanics", "items", "updates", "community",
 ];
 
 /**

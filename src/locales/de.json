@@ -1,36 +1,36 @@
 {
   "site": {
-    "name": "Dragongrove Wiki",
-    "shortName": "Dragongrove",
-    "tagline": "Drachen-Guides, Puzzle-Tipps & Updates",
-    "description": "Dragongrove ist ein Fantasy-Abenteuerspiel, bei dem du magische Umgebungen erkundest, Drachen entdeckst und Bindungen zu mythischen Kreaturen aufbaust.",
+    "name": "Dragon Grove Wiki",
+    "shortName": "Dragon Grove",
+    "tagline": "Puzzle-Guides, Drachen-Tipps & Updates",
+    "description": "Dragon Grove ist ein gemütliches Mixed-Reality-3D-Rätselspiel von Schell Games, entwickelt mit Meta für Meta Quest 3 und neuer. Kombiniere und erwecke magische Drachenpflanzen, pflege deinen Hain, schalte Drachenfähigkeiten frei und baue Bindungen zu Drachen auf.",
     "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
   },
   "nav": {
     "home": "Start",
     "menu": "Menü",
-    "toggleTheme": "Design wechseln",
+    "toggleTheme": "Design umschalten",
     "guide": "Guide",
     "maps": "Karten",
-    "mechanics": "Mechanik",
+    "mechanics": "Mechaniken",
     "items": "Gegenstände",
     "updates": "Updates",
     "community": "Community"
   },
   "home": {
     "meta": {
-      "title": "Dragongrove Wiki - Drachen, Guides & Updates",
-      "description": "Entdecke das Dragongrove Wiki mit Drachen-Guides, Spieltipps, Kreaturen-Infos, Updates und nützlichen Ressourcen für Fantasy-Abenteurer."
+      "title": "Dragon Grove Wiki – Drachen, Puzzle-Guide & Updates",
+      "description": "Entdecke das Dragon Grove Wiki mit räumlichen Puzzle-Guides, Drachen-Tipps, Hain-Fortschritt, Anpassung, Münzen, Updates und nützlichen Ressourcen für Meta-Quest-Spieler."
     },
     "hero": {
-      "eyebrow": "Fantasy-Drachen-Abenteuerspiel",
-      "title": "Dragongrove Wiki",
-      "description": "Dragongrove ist ein Fantasy-Abenteuerspiel, bei dem du magische Umgebungen erkundest, Drachen entdeckst und Bindungen zu mythischen Kreaturen aufbaust.",
+      "eyebrow": "Gemütliches Mixed-Reality-Drachen-Rätselspiel",
+      "title": "Dragon Grove Wiki",
+      "description": "Dragon Grove ist ein gemütliches Mixed-Reality-3D-Rätselspiel für Meta Quest 3 und neuer. Kombiniere und erwecke magische Drachenpflanzen, pflege deinen Hain, schalte hilfreiche Drachenfähigkeiten frei und baue Bindungen zu Drachen auf.",
       "stats": [
-        "Seitenaufrufe",
+        "Gesamtbesuche",
         "Verfügbare Drachen",
-        "Aktive Codes",
-        "Tägliche Updates"
+        "Level zum Start",
+        "Einzigartige Haine"
       ],
       "primaryCta": "Kostenlos auf Meta Quest spielen",
       "secondaryCta": "Einsteiger-Guide",
@@ -40,371 +40,371 @@
     "updates": {
       "title": "Neueste Updates",
       "browse": "Alle Guides durchsuchen",
-      "viewAll": "Alle ansehen"
+      "viewAll": "Alle anzeigen"
     },
     "start": {
-      "eyebrow": "Hier starten",
-      "title": "Deine Dragongrove-Reise",
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Dragon-Grove-Reise",
       "cards": [
         {
           "number": "1",
           "title": "Einsteiger-Guide",
-          "description": "Lerne den Kernkreislauf: Beseitige verdorbenen Wildwuchs, baue deine ersten Nistplätze und brüte einen Drachengefährten aus."
+          "description": "Lerne die Kernschleife: Kombiniere Blätter und Blumen mit deinen Händen, erwecke Drachenpflanzen und beginne, dich mit deinem ersten Drachen zu verbinden."
         },
         {
           "number": "2",
-          "title": "Schnellstes Leveln",
-          "description": "Steigere dein Hain-Heiligtum-Level schnell, indem du Meilensteine abschließt, neue Arten ausbrütest und deine Gefährten glücklich hältst."
+          "title": "Hain-Fortschritt",
+          "description": "Arbeite dich durch über 200 Level in 30 einzigartigen Hainen zum Start und verdiene Münzen und Sterne, während du räumliche Rätsel löst."
         },
         {
           "number": "3",
-          "title": "Beste Farmplätze",
-          "description": "Farme Hain-Holz, Sonnentau und Glutbeere auf effizienten täglichen Routen rund um das Heiligtum."
+          "title": "Drachenfähigkeiten",
+          "description": "Schalte hilfreiche Drachenfähigkeiten im Spielverlauf frei und nutze sie, um kniffligere Puzzle-Layouts zu lösen."
         },
         {
           "number": "4",
-          "title": "So entwickelst du",
-          "description": "Führe Drachen vom Schlüpfling bis zum Ur-Ältesten mit auf die Affinität abgestimmter Fütterung, Pflege und Lebensraumversorgung."
+          "title": "Drachenbindung",
+          "description": "Streichel, winke und wiege Drachen mit nativem Handtracking und spiele Haine erneut, um mehr Sterne zu verdienen."
         }
       ]
     },
     "popular": {
       "eyebrow": "Beliebte Seiten",
-      "title": "Gerade angesagt",
+      "title": "Gerade im Trend",
       "quickLinks": [
         "Hain-Fortschritt",
-        "Drachen-Affinitäten",
-        "Ressourcen-Farming",
-        "Expeditionszonen"
+        "Drachenfähigkeiten",
+        "Räumliche Rätsel",
+        "Münzen & Anpassung"
       ],
       "cards": [
         {
           "badge": "Einsteiger",
           "title": "Einsteiger-Guide",
-          "description": "Alles vom ersten Schlafplatz bis zum Räumen verdorbenen Geländes und dem Ausbrüten deines ersten Drachen.",
+          "description": "Alles, was du von deinem ersten Match bis zum Erwecken von Drachenpflanzen und dem Treffen von Pip, dem ikonischen grünen Drachen, brauchst.",
           "href": "/guide/dragongrove-beginner-guide"
         },
         {
           "badge": "Kern",
-          "title": "Spielmechaniken",
-          "description": "Tageszyklen, elementare Pflege, Terraforming und die Ressourcenkreisläufe, die das Hainwachstum antreiben.",
+          "title": "Gameplay-Mechaniken",
+          "description": "Natives Handtracking, 3D-Kombinationsrätsel, Pflanzentypen, Ebenen und räumliche Mechaniken im Herzen von Dragon Grove.",
           "href": "/mechanics/dragongrove-gameplay"
         },
         {
           "badge": "Beliebt",
-          "title": "Drachen-Affinitäts-Guide",
-          "description": "Ordne Glut-, Grün-, Flut-, Sturm- und Schattendrachen ihren Heimatbiotopen und besten Rollen zu.",
+          "title": "Drachen-Guide",
+          "description": "Lerne die 18 zum Start verfügbaren Drachen kennen, alle durch Fortschritt freischaltbar, und erfahre, wie Bindung funktioniert.",
           "href": "/mechanics/dragongrove-features"
         },
         {
           "badge": "Aktualisiert",
-          "title": "Fortschrittsstufen",
-          "description": "Alle fünf Hain-Stufen von der Grünenden Lichtung bis zum Prismatischen Heiligtum mit ihren Freischaltbedingungen.",
+          "title": "Hain-Fortschritt",
+          "description": "Wie die 30 einzigartigen Haine und über 200 Start-Level zusammenpassen, plus Sterne und Wiederspielwert.",
           "href": "/mechanics/dragongrove-progression"
         },
         {
           "badge": "Beliebt",
-          "title": "Ressourcen-Farming",
-          "description": "Beste Routen und Veredelungsmethoden für Holz, Erze, drakonische Nebenprodukte und elementare Katalysatoren.",
+          "title": "Münzen & Belohnungen",
+          "description": "Das Abschließen von Leveln bringt Münzen für den Shop. Erfahre, woher Münzen kommen und was man damit kaufen kann.",
           "href": "/items/dragongrove-resources"
         },
         {
           "badge": "Aktualisiert",
-          "title": "Belohnungen & Drop-Raten",
-          "description": "Truhenstufen, Boss-Drops und effiziente Farmrouten für jede Phase des Hains.",
+          "title": "Shop & Anpassung",
+          "description": "Drachenhüte, Schwanzdekorationen und Auren, erhältlich mit Münzen, plus optionale Drachenspielzeuge und Boosts.",
           "href": "/items/dragongrove-rewards"
         },
         {
           "badge": "Neu",
-          "title": "Handwerksstationen",
-          "description": "Werkbankstufen von der Tischlerbank bis zum Brutflammen-Herd und ihre Rezepte.",
+          "title": "Zauberschmuck & Fähigkeiten",
+          "description": "Magische Zauberschmuckstücke, tägliche Serienbelohnungen und hilfreiche Drachenfähigkeiten, die dich beim Rätsellösen unterstützen.",
           "href": "/items/dragongrove-crafting"
         },
         {
           "badge": "Beliebt",
-          "title": "Welt & Biome",
-          "description": "Geschichtete Inseln, Windkanäle und die elementaren Biome, die die Lebensraumplanung der Drachen prägen.",
+          "title": "Welt & Haine",
+          "description": "Dreißig einzigartige Haine zum Pflegen, jeder mit neuen Pflanzentypen, Ebenen und räumlichen Puzzles.",
           "href": "/maps/dragongrove-world"
         },
         {
           "badge": "Aktualisiert",
-          "title": "Erscheinungsdatum",
-          "description": "Plattformen, Playtest-Wellen, Demo-Pläne und die Roadmap bis zum vollständigen Launch.",
+          "title": "Veröffentlichungsdatum",
+          "description": "Kostenloser Start voraussichtlich im Frühjahr 2027 für Meta Quest 3 und neuer. Offizielle Roadmap-Details werden noch angekündigt.",
           "href": "/updates/dragongrove-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "Was ist Dragongrove?",
+      "title": "Was ist Dragon Grove?",
       "paragraphs": [
-        "Dragongrove ist ein Fantasy-Heiligtum-Management- und Abenteuerspiel, in dem du einen zerbrochenen Hain wiederherstellst und mythische Drachen aufziehst. Du beseitigst verdorbenen Wildwuchs, baust elementare Lebensräume und schließt Bindungen zu Drachen, die jeweils einer Affinität wie Glut, Grün, Flut, Sturm oder Schatten angehören.",
-        "Der Fortschritt läuft in einem Tag-Nacht-Zyklus aus Sammeln, Terraforming, Zucht und Expeditionen. Wenn dein Hain-Heiligtum-Level steigt, schaltest du dualelementare Lebensräume, Kreuzungsaltäre und Höhenexpeditionsrouten voller Relikte, seltener Samen und Ur-Dracheneier frei."
+        "Dragon Grove ist ein gemütliches Mixed-Reality-3D-Rätselspiel von Schell Games, entwickelt in Zusammenarbeit mit Meta. Es ist ausschließlich für Mixed Reality auf Meta Quest 3 und neuer konzipiert und wird vollständig mit nativem Handtracking gespielt – ohne Controller. Du kombinierst und erweckst magische Drachenpflanzen, pflegst deinen Hain, schaltest hilfreiche Drachenfähigkeiten frei und baust Bindungen zu Drachen auf, indem du sie mit deinen Händen streichelst, ihnen zuwinkst und sie wiegst.",
+        "Jeder beginnt mit Pip, dem ikonischen grünen Drachen. Insgesamt sind zum Start 18 Drachen verfügbar, alle durch Fortschritt freischaltbar. Das Spiel erscheint als Free-to-play mit über 200 Leveln in 30 einzigartigen Hainen, wobei weitere Inhalte in der offiziellen Roadmap und/oder Patchnotes angekündigt werden. Münzen, die man in Leveln verdient, können im Shop für Drachenhüte, Schwanzdekorationen und Auren ausgegeben werden und können auch gekauft werden; sie verfallen nicht."
       ],
       "stats": [
         {
           "label": "Genre",
-          "value": "Heiligtum-Sim-RPG"
+          "value": "Casual, Puzzle"
         },
         {
           "label": "Plattform",
-          "value": "PC (Steam)"
+          "value": "Mixed Reality (Meta Quest 3+)"
         },
         {
-          "label": "Affinitäten",
-          "value": "5"
+          "label": "Drachen zum Start",
+          "value": "18"
         },
         {
-          "label": "Hain-Stufen",
-          "value": "5"
+          "label": "Einzigartige Haine",
+          "value": "30"
         },
         {
-          "label": "Lebensphasen",
-          "value": "4"
+          "label": "Level zum Start",
+          "value": "200+"
         },
         {
-          "label": "Expeditionszonen",
-          "value": "5"
+          "label": "Preis",
+          "value": "Free-to-play"
         }
       ],
-      "cta": "Alle Guides erkunden"
+      "cta": "Alle Guides entdecken"
     },
     "explore": {
-      "title": "Dragongrove Wiki erkunden",
-      "description": "Dein Hub für Dragongrove-Guides zu Einsteiger-Setup, elementarer Drachenpflege, Hain-Fortschritt, Puzzle-Schreinen, Anpassung, Belohnungen und Release-News.",
+      "title": "Dragon Grove Wiki erkunden",
+      "description": "Dein Hub für Dragon Grove Guides zu Einsteiger-Setup, räumlichem Rätsellösen, Drachenbindung, Hain-Fortschritt, Anpassung, Münzen und Release-News.",
       "modules": [
         {
           "order": 1,
-          "name": "Dragongrove Einsteiger-Guide",
-          "description": "Neue Spieler lernen den grundlegenden Spielkreislauf, das erste Setup und den frühen Fortschrittspfad kennen. Er behandelt die Interaktion mit Drachen, das Beseitigen verdorbenen Wildwuchses und den vertrauten Umgang mit dem Hain.",
+          "name": "Dragon Grove Einsteiger-Guide",
+          "description": "Neue Spieler lernen die grundlegende Gameplay-Schleife, das erste Setup und den frühen Fortschrittspfad kennen. Behandelt werden natives Handtracking, das Kombinieren von Blättern und Blumen, das Erwecken von Drachenpflanzen und das Treffen von Pip.",
           "href": "/guide/dragongrove-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Erkunde den Hain und räume nebelbedeckte Flächen, um deinen ersten Bauplatz zu öffnen."
+              "detail": "Setze dein Meta Quest 3 Headset auf und richte natives Handtracking ein – kein Controller nötig."
             },
             {
               "label": "2",
-              "detail": "Baue einfache Nistplätze, einen Futtertrog und eine Holzfällerbank."
+              "detail": "Mach es dir im Sitzen bequem; Dragon Grove ist als gemütliches, stressarmes Spiel konzipiert."
             },
             {
               "label": "3",
-              "detail": "Brüte oder adoptiere deinen ersten Gefährten aus und füttere und pflege ihn täglich."
+              "detail": "Triff Pip, den ikonischen grünen Drachen, mit dem jeder beginnt."
             },
             {
               "label": "4",
-              "detail": "Weise deinem Drachen eine Aufgabe zu, die zu seiner elementaren Affinität passt."
+              "detail": "Kombiniere Blätter und Blumen mit deinen Händen, um dein erstes räumliches Rätsel zu lösen."
             },
             {
               "label": "5",
-              "detail": "Richte eine morgendliche Ernte-Routine für Holz, Sonnentau und Glutbeere ein."
+              "detail": "Streichel, winke und wiege Drachen, um im Spiel eine Bindung aufzubauen."
             },
             {
               "label": "6",
-              "detail": "Erhöhe dein Hain-Heiligtum-Level, um die ersten elementaren Schlafplätze freizuschalten."
+              "detail": "Schließe Level ab, um Münzen zu verdienen und durch Fortschritt weitere Drachen freizuschalten."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Dragongrove Gameplay-Guide",
-          "description": "Ein umfassender Überblick über die Kernsysteme, einschließlich elementarer Drachenpflege, Hain-Terraforming, Ressourcenmanagement und täglicher Expeditionskreisläufe.",
+          "name": "Dragon Grove Gameplay-Guide",
+          "description": "Ein umfassender Überblick über die Kernsysteme, einschließlich 3D-Kombinationsrätsel, nativer Handtracking-Interaktionen, Drachenbindung und der Hain-Fortschrittsschleife.",
           "href": "/mechanics/dragongrove-gameplay",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Kernkreislauf",
-              "detail": "Pflegen, ernten, terraformen und erkunden über einen Tag-Nacht-Zyklus."
+              "label": "Kernschleife",
+              "detail": "Kombiniere und erwecke magische Drachenpflanzen und pflege dann deinen Hain über 200+ Level hinweg."
             },
             {
-              "label": "Affinität",
-              "detail": "Ordne Drachen ihrem Heimatbiotop zu, um Stimmung und Essenzproduktion zu steigern."
+              "label": "Handtracking",
+              "detail": "Vollständig mit nativem Handtracking gespielt – streicheln, winken, wiegen und per Hand kombinieren."
             },
             {
-              "label": "Expedition",
-              "detail": "Schicke elementare Teams in Gefahrenzonen für Relikte und seltene Samen."
+              "label": "Räumliche Rätsel",
+              "detail": "3D-Kombinationsrätsel führen neue Pflanzentypen, Ebenen und räumliche Mechaniken ein."
             },
             {
-              "label": "Wirtschaft",
-              "detail": "Balanciere Rohstoffe gegen veredelte Waren, um Engpässe zu vermeiden."
+              "label": "Drachenfähigkeiten",
+              "detail": "Schalte hilfreiche Drachenfähigkeiten im Spielverlauf frei, um schwierigere Rätsel zu meistern."
             },
             {
-              "label": "Lebensraum",
-              "detail": "Gruppiere Lebensräume, um passive Synergieboni auszulösen."
+              "label": "Münzen",
+              "detail": "Das Abschließen von Leveln bringt Münzen, die im Shop für Hüte, Schwanzdekorationen und Auren verwendet werden können."
             },
             {
-              "label": "Jahreszeiten",
-              "detail": "Dynamisches Wetter verschiebt Ressourcenschübe und Schlüpflingsspawns."
+              "label": "Wiederholen",
+              "detail": "Spiele Haine erneut, um mehr Sterne zu verdienen und deine Ergebnisse zu verbessern."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Dragongrove Drachen-Guide",
-          "description": "Stellt Drachengefährten, ihre elementaren Affinitäten, Lebensphasen und Zuchtoptionen für Hüter vor, die eine ausgewogene Aufstellung aufbauen.",
+          "name": "Dragon Grove Drachen-Guide",
+          "description": "Stellt die Drachen von Dragon Grove vor, darunter Pip, den ikonischen grünen Drachen, die 18 zum Start verfügbaren Drachen sowie die Funktionsweise von Bindung und Freischaltungsfortschritt.",
           "href": "/mechanics/dragongrove-features",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Glutwyrm und Grünling-Drache tragen früh zu Schmieden und Ernteerträgen bei."
+              "label": "Pip",
+              "detail": "Jeder beginnt mit Pip, dem ikonischen grünen Drachen von Dragon Grove."
             },
             {
-              "label": "A",
-              "detail": "Flutwyrm und Sturm-Drache glänzen bei Bewässerung und schnellem Spähen."
+              "label": "Startaufstellung",
+              "detail": "Insgesamt sind zum Start 18 Drachen verfügbar, alle durch Fortschritt freischaltbar."
             },
             {
-              "label": "B",
-              "detail": "Schattendrache glänzt bei Nachtverstecken, braucht aber einen Schattenlebensraum."
+              "label": "Bindung",
+              "detail": "Streichel, winke und wiege Drachen mit deinen Händen, um eure Beziehung aufzubauen."
             },
             {
-              "label": "C",
-              "detail": "Startrassen wie Glutling und Wellenschlange fallen später ab."
+              "label": "Fähigkeiten",
+              "detail": "Schalte hilfreiche Drachenfähigkeiten frei, während du durch die Haine fortschreitest."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Dragongrove Puzzle-Guide",
-          "description": "Ein Guide zum Lösen der räumlichen Puzzle-Schreine des Hains, zum Verständnis der Pflanzenabgleich-Mechanik und zur Verbesserung der Puzzle-Effizienz.",
+          "name": "Dragon Grove Puzzle-Guide",
+          "description": "Ein Guide zum Lösen der 3D-Rätsel des Hains, zum Verständnis der Pflanzen-Kombinationsmechaniken und zur Verbesserung der Rätsel-Effizienz mit Handtracking.",
           "href": "/guide/dragongrove-walkthrough",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Prüfe das Layout des Schreins, bevor du etwas bewegst, um das beabsichtigte Muster zu erkennen."
+              "detail": "Scanne das Puzzle-Layout, bevor du etwas bewegst, um das beabsichtigte Muster zu erkennen."
             },
             {
               "label": "2",
-              "detail": "Ordne Pflanzen nach elementarer Farbe zu, um das versiegelte Haintor zu öffnen."
+              "detail": "Kombiniere Blätter und Blumen mit deinen Händen, um magische Drachenpflanzen zu erwecken."
             },
             {
               "label": "3",
-              "detail": "Drehe und richte Runensäulen aus, damit sich ihre Lichtstrahlen verbinden."
+              "detail": "Achte auf neue Pflanzentypen, Ebenen und räumliche Mechaniken, während du fortschreitest."
             },
             {
               "label": "4",
-              "detail": "Hole die Belohnungstruhe ab, die nach jedem gelösten Schrein freigeschaltet wird."
+              "detail": "Nutze freigeschaltete Drachenfähigkeiten und optionale Boosts, wenn ein Rätsel ein zusätzliches Match erfordert."
             }
           ]
         },
         {
           "order": 5,
-          "name": "Dragongrove Level-Guide",
-          "description": "Erklärt die Hain-Stufenstruktur, Drachenkapazität, Machtanforderungen und wie Inhalte erweitert werden, während Hüter voranschreiten.",
+          "name": "Dragon Grove Level-Guide",
+          "description": "Erklärt die Hain-Struktur zum Start, wie die 200+ Level auf 30 einzigartige Haine verteilt sind und wie Inhalte erweitert werden, während Hüter voranschreiten.",
           "href": "/mechanics/dragongrove-progression",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Stufe I",
-              "detail": "Grünende Lichtung - 4 Drachen, einfache Nester und das Sägewerk."
+              "label": "Start-Level",
+              "detail": "200+ Level zum Start in 30 einzigartigen Hainen."
             },
             {
-              "label": "Stufe II",
-              "detail": "Flüsterhain - 8 Drachen, Steinschlafplätze und der Kräutergarten."
+              "label": "Haine",
+              "detail": "Dreißig einzigartige Haine, jeder führt neue Pflanzentypen, Ebenen und räumliche Mechaniken ein."
             },
             {
-              "label": "Stufe III",
-              "detail": "Schimmernde Baumkrone - 16 Drachen, dualelementare Lebensräume und der Altar."
+              "label": "Sterne",
+              "detail": "Verdiene Sterne in Leveln und spiele Haine erneut, um mehr zu verdienen."
             },
             {
-              "label": "Stufe IV",
-              "detail": "Drakonische Bastion - 28 Drachen, Himmelsgewölbe und die verzauberte Brutstätte."
+              "label": "Münzen",
+              "detail": "Das Abschließen von Leveln bringt Münzen für den Shop."
             },
             {
-              "label": "Stufe V",
-              "detail": "Prismatisches Heiligtum - 45+ Drachen, legendäre Monolithen und die Ley-Leitung."
+              "label": "Zukünftige Inhalte",
+              "detail": "Weitere Inhalte werden in der offiziellen Roadmap und/oder Patchnotes angekündigt."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Dragongrove Anpassungs-Guide",
-          "description": "Behandelt Drachenkosmetik, Sättel, Accessoires, Hüterrelikte und Heiligtum-Deko, die jeden Gefährten und Hain einzigartig machen.",
+          "name": "Dragon Grove Anpassungs-Guide",
+          "description": "Behandelt die kosmetischen Optionen im Dragon Grove Shop, darunter Drachenhüte, Schwanzdekorationen und Auren, die mit Münzen gekauft werden.",
           "href": "/items/dragongrove-equipment",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Sättel",
-              "detail": "Herstellbare Sättel verändern die Flugsteuerung und schalten neue Routen frei."
+              "label": "Hüte",
+              "detail": "Drachenhüte sind im Shop mit Münzen erhältlich."
             },
             {
-              "label": "Schuppen",
-              "detail": "Kosmetische Schuppenfarben und -muster stammen aus seltenen Zuchtpaaren."
-            },
-            {
-              "label": "Relikte",
-              "detail": "Hüterrelikte geben passive Boni auf Zähmung und Erkundung."
-            },
-            {
-              "label": "Deko",
-              "detail": "Kristalllampen und Totems gewähren Mikrobuffs für nahe Lebensräume."
+              "label": "Schwanzdekorationen",
+              "detail": "Schwanzdekorationen können im Shop mit Münzen gekauft werden."
             },
             {
               "label": "Auren",
-              "detail": "Legendäre kosmetische Auren markieren fehlerfreie Expeditionsabschlüsse."
+              "detail": "Auren sind kosmetische Gegenstände, die im Shop für Münzen angeboten werden."
+            },
+            {
+              "label": "Drachenspielzeuge",
+              "detail": "Optionale Freischaltungen, die die Dracheninteraktion maximieren, wie das Spielen von Apportieren und ein individueller Sitzplatz für deinen Drachen, ohne Einfluss auf das Gameplay."
+            },
+            {
+              "label": "Sitzplätze",
+              "detail": "Drachenspielzeuge können deinem Drachen einen individuellen Sitzplatz für zusätzliche Interaktion geben."
             }
           ]
         },
         {
           "order": 7,
-          "name": "Dragongrove Münzen-Guide",
-          "description": "Erklärt das Währungs- und Belohnungssystem, einschließlich Gold, Hain-Essenz und der seltenen Materialien für Upgrades und Zucht.",
+          "name": "Dragon Grove Münzen-Guide",
+          "description": "Erklärt das Münz- und Belohnungssystem, einschließlich wie Münzen in Leveln verdient, im Shop ausgegeben werden und wie Käufe funktionieren.",
           "href": "/items/dragongrove-rewards",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Gold",
-              "detail": "Hauptmünze für Lebensraumunterhalt, Handelsgeschäfte und Werkzeugreparatur."
+              "label": "Verdienen",
+              "detail": "Das Abschließen von Leveln bringt Münzen."
             },
             {
-              "label": "Essenz",
-              "detail": "Hain-Essenz treibt Terraforming- und Landrodungs-Upgrades an."
+              "label": "Ausgeben",
+              "detail": "Münzen können im Shop für Drachenhüte, Schwanzdekorationen und Auren verwendet werden."
             },
             {
-              "label": "Splitter",
-              "detail": "Sonnenstein-Splitter schalten Stufe-II-Lebensräume und Steinabbau frei."
+              "label": "Kaufen",
+              "detail": "Münzen können auch gekauft werden und verfallen nicht."
             },
             {
-              "label": "Bernstein",
-              "detail": "Drachenbernstein betreibt Kreuzungsaltäre und seltene Schlafplätze."
+              "label": "Boosts",
+              "detail": "Drachen-Boosts sind Power-ups, die ein zusätzliches Match oder eine zusätzliche Fähigkeitsnutzung gewähren."
             },
             {
-              "label": "Gluten",
-              "detail": "Prismatische Gluten veredeln Endgame-Relikte und legendäre Ausrüstung."
+              "label": "Kein Pay-to-Win",
+              "detail": "Alle Level können ohne Power-ups abgeschlossen werden."
             }
           ]
         },
         {
           "order": 8,
-          "name": "Dragongrove Release-Guide",
-          "description": "Bietet die neuesten Informationen zu Release-Zeitpunkt, unterstützten Plattformen, Geräteanforderungen und offiziellen Ankündigungen.",
+          "name": "Dragon Grove Release-Guide",
+          "description": "Bietet die neuesten Informationen zu Release-Zeitpunkt, unterstützten Geräten, Spielanforderungen und offiziellen Ankündigungen.",
           "href": "/updates/dragongrove-release-date",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Plattform",
-              "detail": "Zuerst PC auf Steam, Konsolen-Ports nach dem Launch erwartet."
+              "detail": "Mixed Reality auf Meta Quest 3 Headsets und neuer."
             },
             {
-              "label": "Playtest",
-              "detail": "Geschlossene Playtests laufen in Wellen über Community-Anmeldungen."
+              "label": "Preis",
+              "detail": "Free-to-play."
             },
             {
-              "label": "Demo",
-              "detail": "Eine kostenlose öffentliche Steam-Demo ist für eine saisonale Showcase geplant."
+              "label": "Release-Fenster",
+              "detail": "Erwartet im Frühjahr 2027."
+            },
+            {
+              "label": "Steuerung",
+              "detail": "Vollständig mit nativem Handtracking gespielt; kein Controller."
             },
             {
               "label": "Roadmap",
-              "detail": "Early Access zielt mit iterativen Updates auf die Kernsysteme."
+              "detail": "Zusätzliche Inhalte werden in der offiziellen Roadmap und/oder Patchnotes angekündigt."
             },
             {
-              "label": "Launch",
-              "detail": "Die vollständige 1.0-Veröffentlichung fügt Endgame-Zucht und weltweiten Handel hinzu."
-            },
-            {
-              "label": "Spezifikationen",
-              "detail": "Empfohlen: 16 GB RAM, RTX 3060 und 30 GB NVMe-SSD."
+              "label": "Studio",
+              "detail": "Ein Kundenprojekt von Schell Games in Zusammenarbeit mit Meta."
             }
           ]
         }
@@ -412,71 +412,71 @@
     },
     "faq": {
       "title": "Häufig gestellte Fragen",
-      "description": "Schnelle Antworten auf die häufigsten Fragen zu Dragongrove.",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Dragon Grove.",
       "items": [
         {
-          "question": "Was ist Dragongrove?",
-          "answer": "Dragongrove ist ein Fantasy-Heiligtum-Managementspiel, in dem du einen magischen Hain wiederherstellst und elementare Drachen aufziehst. Du räumst verdorbenes Gelände, baust Lebensräume, züchtest neue Drachen und schickst Expeditionsteams in gefährliche Biome."
+          "question": "Was ist Dragon Grove?",
+          "answer": "Dragon Grove ist ein gemütliches Mixed-Reality-3D-Rätselspiel von Schell Games, entwickelt in Zusammenarbeit mit Meta. Es ist ausschließlich für Mixed Reality auf Meta Quest 3 und neuer konzipiert und wird vollständig mit nativem Handtracking gespielt. Du kombinierst und erweckst magische Drachenpflanzen, pflegst deinen Hain, schaltest hilfreiche Drachenfähigkeiten frei und baust Bindungen zu Drachen auf."
         },
         {
-          "question": "Wie erhöhe ich mein Hain-Heiligtum-Level in Dragongrove?",
-          "answer": "Schließe Wiederherstellungs-Meilensteine ab, brüte neue Arten aus und halte Gefährten glücklich. Jede Stufe schaltet neue Lebensraumflächen und Gebäude wie die Kinderstube und die Alchemistische Schmiede frei."
+          "question": "Wie komme ich in Dragon Grove voran?",
+          "answer": "Komme voran, indem du die über 200 zum Start verfügbaren Level in 30 einzigartigen Hainen abschließt und dabei Münzen und Sterne verdienst. Jeder beginnt mit Pip, dem ikonischen grünen Drachen, und die 18 zum Start verfügbaren Drachen werden alle durch Fortschritt freigeschaltet."
         },
         {
-          "question": "Was sind die elementaren Affinitäten in Dragongrove?",
-          "answer": "Drachen gehören Affinitäten wie Glut, Grün, Flut, Sturm und Schatten an. Passt ein Drache zu seinem Heimatbiotop, steigert das Stimmung, Essenzproduktion und Expeditionsvorteile."
+          "question": "Welche Drachen gibt es in Dragon Grove?",
+          "answer": "Jeder beginnt mit Pip, dem ikonischen grünen Drachen. Insgesamt sind zum Start 18 Drachen verfügbar, und alle sind durch Fortschritt freischaltbar. Spezifische Drachennamen und -fähigkeiten außer Pip sind derzeit nicht dokumentiert."
         },
         {
-          "question": "Wie funktionieren Expeditionen in Dragongrove?",
-          "answer": "Du schickst elementare Teams in Zonen wie das Dornwald-Dickicht oder die Frostfall-Kluft. Passe Gruppenresistenzen ans Biotop an, packe Proviant ein und kehre mit Relikten, Runen und seltenen Eiern zurück."
+          "question": "Wie funktionieren Münzen in Dragon Grove?",
+          "answer": "Das Abschließen von Leveln bringt Münzen, die im Shop für Drachenhüte, Schwanzdekorationen und Auren verwendet werden können. Münzen können auch gekauft werden und verfallen nicht. Drachen-Boosts sind Power-ups, die ein zusätzliches Match oder eine zusätzliche Fähigkeitsnutzung gewähren, aber alle Level können ohne Power-ups abgeschlossen werden, das Spiel ist also kein Pay-to-Win."
         },
         {
-          "question": "Ist Dragongrove kostenlos spielbar?",
-          "answer": "Dragongrove ist als kostenpflichtige PC-Veröffentlichung auf Steam mit einer Early-Access-Phase geplant, gefolgt von Konsolen-Ports nach dem Launch."
+          "question": "Ist Dragon Grove kostenlos spielbar?",
+          "answer": "Ja. Dragon Grove ist Free-to-play mit einer erwarteten Veröffentlichung im Frühjahr 2027 für Meta Quest 3 Headsets und neuer. Münzen können gekauft werden, aber alle Level können ohne Power-ups abgeschlossen werden."
         },
         {
-          "question": "Woher kommen die Belohnungen in Dragongrove?",
-          "answer": "Belohnungen stammen aus Puzzle-Schreinen, Elite-Wächtern und Boss-Drop-Pools. Im Dragongrove-Belohnungsguide findest du Truhenstufen, Drop-Raten und Farmrouten."
+          "question": "Welche Funktionen werden für Dragon Grove beworben?",
+          "answer": "Zu den offiziellen Funktionen gehören tägliche Serienbelohnungen, magische Zauberschmuckstücke, neue Drachen treffen, die Reisen von Freunden verfolgen, 3D-Kombinationsrätsel mit neuen Pflanzentypen, Ebenen und räumlichen Mechaniken sowie das erneute Spielen von Hainen, um mehr Sterne zu verdienen. Die offizielle FAQ gibt an, dass Kunst, Charakter-Assets und Gameplay keine KI-Komponenten enthalten."
         }
       ]
     },
     "finalCta": {
-      "title": "Bereit, Dragongrove zu erkunden?",
-      "description": "Von deinem ersten Drachengefährten bis zu über 200 räumlichen Puzzle-Leveln hält unser Community-Wiki kostenlose, aktuelle Guides für dich bereit.",
+      "title": "Bereit, Dragon Grove zu erkunden?",
+      "description": "Von deinem ersten Drachenbegleiter bis zu über 200 räumlichen Puzzle-Leveln – unser Community-Wiki bietet dir kostenlose, aktuelle Guides.",
       "primary": "Lies den Einsteiger-Guide",
       "secondary": "Auf Meta Quest spielen"
     }
   },
   "guide": {
-    "overviewTitle": "Dragongrove Guides & Tipps",
-    "overviewDescription": "Einsteiger-Guides, komplette Walkthroughs, Reviews und praktische Tipps, mit denen jeder Hüter Dragongrove meistert."
+    "overviewTitle": "Dragon Grove Guides & Tipps",
+    "overviewDescription": "Einsteiger-Guides, vollständige Walkthroughs, Reviews und praktische Tipps, die jedem Hüter helfen, Dragon Grove zu meistern."
   },
   "maps": {
-    "overviewTitle": "Dragongrove Karten & Gebiete",
-    "overviewDescription": "Erkunde Dragongrove-Karten, Orte, Regionen und Weltguides für jede Heiligtum-Zone."
+    "overviewTitle": "Dragon Grove Karten & Gebiete",
+    "overviewDescription": "Erkunde Dragon Grove Karten, Haine, Orte und Welt-Guides mit allen Schutzgebieten."
   },
   "mechanics": {
-    "overviewTitle": "Dragongrove Spielmechaniken",
-    "overviewDescription": "Verstehe Quests, Fortschritt, Ziele und die Kern-Gameplay-Systeme hinter dem Hain."
+    "overviewTitle": "Dragon Grove Gameplay-Mechaniken",
+    "overviewDescription": "Verstehe Dragon Grove Rätsel, Fortschritt, Ziele und die Kern-Gameplay-Systeme hinter dem Hain."
   },
   "items": {
-    "overviewTitle": "Dragongrove Gegenstände & Handwerk",
-    "overviewDescription": "Durchstöbere Dragongrove-Gegenstände, Ausrüstung, Handwerksrezepte, Ressourcen und Belohnungen an einem Ort."
+    "overviewTitle": "Dragon Grove Shop & Anpassung",
+    "overviewDescription": "Durchsuche Dragon Grove Shop-Artikel, Kosmetik, Zauberschmuck, Boosts, Münzen und Belohnungen an einem Ort."
   },
   "updates": {
-    "overviewTitle": "Dragongrove News & Aktualisierungen",
-    "overviewDescription": "Die neuesten Dragongrove-Updates, Release-Date-News, Ankündigungen und Patch-Berichte."
+    "overviewTitle": "Dragon Grove News & Updates",
+    "overviewDescription": "Die neuesten Dragon Grove Updates, Release-Date-News, offizielle Roadmap-Ankündigungen und Patch-Berichterstattung."
   },
   "community": {
-    "overviewTitle": "Dragongrove-Community",
-    "overviewDescription": "Dragongrove-Community-Links, Reddit- und Discord-Hubs, Entwickler-News und FAQ-Antworten."
+    "overviewTitle": "Dragon Grove Community",
+    "overviewDescription": "Dragon Grove Community-Links, Entwickler-News von Schell Games und FAQ-Antworten."
   },
   "shared": {
     "wikiNavigation": "Wiki-Navigation",
-    "activeCodes": "Aktive Codes",
+    "activeCodes": "News",
     "updated": "Aktualisiert",
-    "viewAllCodes": "Alle Codes ansehen",
-    "playOnRoblox": "Auf Roblox spielen",
+    "viewAllCodes": "Alle Updates anzeigen",
+    "playOnRoblox": "Auf Meta Quest spielen",
     "inThisSection": "In diesem Abschnitt",
     "tableOfContents": "Inhaltsverzeichnis",
     "nextSteps": "Nächste Schritte",
@@ -489,22 +489,22 @@
     "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
   },
   "footer": {
-    "aboutTitle": "Dragongrove Wiki",
-    "about": "Das Dragongrove Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Drachengefährten, räumlichen Puzzles, Leveln, Anpassung, Münzen und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "aboutTitle": "Dragon Grove Wiki",
+    "about": "Das Dragon Grove Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Drachenbindung, räumlichen Rätseln, Leveln, Anpassung, Münzen und wichtigem Spielwissen für neue und erfahrene Spieler gleichermaßen.",
     "quickLinks": "Schnelllinks",
     "guides": "Guides",
     "legal": "Rechtliches",
-    "copyright": "2026 Dragongrove Wiki. Nicht mit Schell Games oder Meta verbunden.",
-    "description": "Kostenloses gemütliches 3D-Räumliches-Puzzle-Spiel mit magischen Drachengefährten auf Meta Quest.",
-    "playGame": "Dragongrove spielen",
-    "officialDiscord": "Offizieller Discord",
+    "copyright": "2026 Dragon Grove Wiki. Nicht mit Schell Games oder Meta verbunden.",
+    "description": "Kostenloses gemütliches 3D-Rätselspiel mit magischen Drachenbegleitern auf Meta Quest 3 und neuer.",
+    "playGame": "Dragon Grove spielen",
+    "officialDiscord": "Offizielle Website",
     "officialYoutube": "Offizielles YouTube",
     "vvBuilder": "Offizielle Website",
     "beginnerGuide": "Einsteiger-Guide",
     "mapGuide": "Karten-Guide",
     "gameplayGuide": "Gameplay-Guide",
-    "craftingGuide": "Handwerks-Guide",
-    "privacyPolicy": "Datenschutzerklärung",
+    "craftingGuide": "Anpassungs-Guide",
+    "privacyPolicy": "Datenschutzrichtlinie",
     "termsOfService": "Nutzungsbedingungen"
   }
 }

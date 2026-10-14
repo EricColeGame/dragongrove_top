@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "Dragongrove Wiki",
-    "shortName": "Dragongrove",
-    "tagline": "Guías de dragones, trucos y novedades",
-    "description": "Dragongrove es un juego de aventuras de fantasía centrado en explorar entornos mágicos, descubrir dragones y crear vínculos con criaturas míticas.",
+    "name": "Dragon Grove Wiki",
+    "shortName": "Dragon Grove",
+    "tagline": "Guías de puzles, consejos sobre dragones y novedades",
+    "description": "Dragon Grove es un acogedor juego de puzles espaciales 3D de realidad mixta de Schell Games, creado con Meta para Meta Quest 3 y superiores. Combina y despierta plantas de dragón mágicas, cuida tu arboleda, desbloquea habilidades de dragón y crea vínculos con los dragones.",
     "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
   },
   "nav": {
@@ -19,18 +19,18 @@
   },
   "home": {
     "meta": {
-      "title": "Dragongrove Wiki - Dragones, guías y novedades",
-      "description": "Explora la Dragongrove Wiki para encontrar guías de dragones, consejos de juego, información de criaturas, novedades y recursos útiles para jugadores de aventuras de fantasía."
+      "title": "Dragon Grove Wiki - Dragones, guía de puzles y novedades",
+      "description": "Explora la Dragon Grove Wiki para encontrar guías de puzles espaciales, consejos sobre dragones, progresión de la arboleda, personalización, monedas, novedades y recursos útiles para jugadores de Meta Quest."
     },
     "hero": {
-      "eyebrow": "Juego de aventuras de dragones de fantasía",
-      "title": "Dragongrove Wiki",
-      "description": "Dragongrove es un juego de aventuras de fantasía centrado en explorar entornos mágicos, descubrir dragones y crear vínculos con criaturas míticas.",
+      "eyebrow": "Acogedor juego de puzles de dragones en realidad mixta",
+      "title": "Dragon Grove Wiki",
+      "description": "Dragon Grove es un acogedor juego de puzles espaciales 3D de realidad mixta para Meta Quest 3 y superiores. Combina y despierta plantas de dragón mágicas, cuida tu arboleda, desbloquea habilidades de dragón útiles y crea vínculos con los dragones.",
       "stats": [
         "Visitas totales",
         "Dragones disponibles",
-        "Códigos activos",
-        "Novedades diarias"
+        "Niveles en el lanzamiento",
+        "Arboledas únicas"
       ],
       "primaryCta": "Juega gratis en Meta Quest",
       "secondaryCta": "Guía para principiantes",
@@ -39,372 +39,372 @@
     },
     "updates": {
       "title": "Últimas novedades",
-      "browse": "Ver todas las guías",
+      "browse": "Explorar todas las guías",
       "viewAll": "Ver todo"
     },
     "start": {
       "eyebrow": "Empieza aquí",
-      "title": "Tu viaje en Dragongrove",
+      "title": "Tu viaje por Dragon Grove",
       "cards": [
         {
           "number": "1",
           "title": "Guía para principiantes",
-          "description": "Aprende el bucle principal: elimina la maleza corrompida, construye tus primeros nidos y eclosiona un dragón compañero."
+          "description": "Aprende el bucle principal: combina hojas y flores con las manos, despierta plantas de dragón y empieza a crear vínculos con tu primer dragón."
         },
         {
           "number": "2",
-          "title": "Subida de nivel más rápida",
-          "description": "Sube rápido tu nivel de Santuario del Bosque completando hitos, eclosionando nuevas especies y manteniendo felices a tus compañeros."
+          "title": "Progresión de la arboleda",
+          "description": "Avanza por más de 200 niveles en 30 arboledas únicas en el lanzamiento, ganando monedas y estrellas mientras superas puzles espaciales."
         },
         {
           "number": "3",
-          "title": "Mejores zonas de farmeo",
-          "description": "Farmea Madera del Bosque, Rocío Solar y Baya de Ascua en rutas diarias eficientes por el santuario."
+          "title": "Habilidades de dragón",
+          "description": "Desbloquea habilidades de dragón útiles a medida que progresas y úsalas para resolver diseños de puzles más difíciles."
         },
         {
           "number": "4",
-          "title": "Cómo evolucionar",
-          "description": "Guía a tus dragones desde Cría hasta Anciano Primigenio con alimentación, aseo y cuidados de hábitat según su afinidad."
+          "title": "Vínculo con los dragones",
+          "description": "Acaricia, saluda y acuna a los dragones usando el seguimiento nativo de manos, y vuelve a jugar arboledas para ganar más estrellas."
         }
       ]
     },
     "popular": {
       "eyebrow": "Páginas populares",
-      "title": "Tendencias ahora",
+      "title": "Tendencias actuales",
       "quickLinks": [
-        "Progresión del bosque",
-        "Afinidades de dragones",
-        "Farme de recursos",
-        "Zonas de expedición"
+        "Progresión de la arboleda",
+        "Habilidades de dragón",
+        "Puzles espaciales",
+        "Monedas y personalización"
       ],
       "cards": [
         {
           "badge": "Principiante",
           "title": "Guía para principiantes",
-          "description": "Todo lo que necesitas, desde tu primer posadero hasta limpiar terreno corrompido y eclosionar tu primer dragón.",
+          "description": "Todo lo que necesitas desde tu primera combinación hasta despertar plantas de dragón y conocer a Pip, el dragón verde insignia.",
           "href": "/guide/dragongrove-beginner-guide"
         },
         {
-          "badge": "Básico",
+          "badge": "Esencial",
           "title": "Mecánicas de juego",
-          "description": "Ciclos diarios, cuidado elemental, terraformación y los bucles de recursos que impulsan el crecimiento del bosque.",
+          "description": "Seguimiento nativo de manos, puzles de combinación 3D, tipos de plantas, capas y mecánicas espaciales en el corazón de Dragon Grove.",
           "href": "/mechanics/dragongrove-gameplay"
         },
         {
           "badge": "Popular",
-          "title": "Guía de afinidades de dragones",
-          "description": "Asigna dragones de Ascua, Verde, Torrente, Vendaval y Umbrío a sus biomas nativos y mejores roles.",
+          "title": "Guía de dragones",
+          "description": "Conoce a los 18 dragones disponibles en el lanzamiento, todos desbloqueables mediante progresión, y aprende cómo funciona el vínculo.",
           "href": "/mechanics/dragongrove-features"
         },
         {
           "badge": "Actualizado",
-          "title": "Niveles de progresión",
-          "description": "Los cinco niveles del bosque, desde el Claro Verdeante hasta el Santuario Prismático, con sus requisitos de desbloqueo.",
+          "title": "Progresión de la arboleda",
+          "description": "Cómo encajan las 30 arboledas únicas y los más de 200 niveles del lanzamiento, además de las estrellas y la rejugabilidad.",
           "href": "/mechanics/dragongrove-progression"
         },
         {
           "badge": "Popular",
-          "title": "Farme de recursos",
-          "description": "Mejores rutas y métodos de refinado para madera, minerales, subproductos dracónicos y catalizadores elementales.",
+          "title": "Monedas y recompensas",
+          "description": "Completar niveles otorga monedas para la tienda. Descubre de dónde vienen las monedas y qué pueden comprar.",
           "href": "/items/dragongrove-resources"
         },
         {
           "badge": "Actualizado",
-          "title": "Recompensas y tasas de botín",
-          "description": "Niveles de cofre, botín de jefes y rutas de farmeo eficientes para cada etapa del bosque.",
+          "title": "Tienda y personalización",
+          "description": "Sombreros para dragones, decoraciones de cola y auras disponibles con monedas, además de juguetes y mejoras opcionales para dragones.",
           "href": "/items/dragongrove-rewards"
         },
         {
           "badge": "Nuevo",
-          "title": "Estaciones de creación",
-          "description": "Niveles de estación de trabajo, desde el Banco de Carpintero hasta el Hogar Llama de Cría, y sus recetas.",
+          "title": "Amuletos y habilidades",
+          "description": "Amuletos mágicos, recompensas por rachas diarias y habilidades de dragón útiles que te ayudan a resolver puzles.",
           "href": "/items/dragongrove-crafting"
         },
         {
           "badge": "Popular",
-          "title": "Mundo y biomas",
-          "description": "Islas superpuestas, túneles de viento y los biomas elementales que definen la planificación de hábitats de dragones.",
+          "title": "Mundo y arboledas",
+          "description": "Treinta arboledas únicas que cuidar, cada una con nuevos tipos de plantas, capas y mecánicas de puzles espaciales.",
           "href": "/maps/dragongrove-world"
         },
         {
           "badge": "Actualizado",
           "title": "Fecha de lanzamiento",
-          "description": "Plataformas, oleadas de pruebas, planes de demo y la hoja de ruta hacia el lanzamiento completo.",
+          "description": "Lanzamiento free-to-play previsto para la primavera de 2027 en Meta Quest 3 y superiores. Detalles de la hoja de ruta oficial por anunciar.",
           "href": "/updates/dragongrove-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "¿Qué es Dragongrove?",
+      "title": "¿Qué es Dragon Grove?",
       "paragraphs": [
-        "Dragongrove es un juego de gestión de santuario y aventuras de fantasía en el que restauras un bosque fracturado y crías dragones míticos. Limpias maleza corrompida, construyes hábitats elementales y creas vínculos con dragones que pertenecen a una afinidad como Ascua, Verde, Torrente, Vendaval o Umbrío.",
-        "La progresión avanza en un ciclo de día y noche de recolección, terraformación, cría y expediciones. A medida que sube tu nivel de Santuario del Bosque, desbloqueas hábitats de doble elemento, altares de cruce y rutas de expedición de gran altitud llenas de reliquias, semillas raras y huevos de dragón primigenio."
+        "Dragon Grove es un acogedor juego de puzles espaciales 3D de realidad mixta de Schell Games, creado en colaboración con Meta. Diseñado exclusivamente para realidad mixta en Meta Quest 3 y superiores, se juega enteramente con seguimiento nativo de manos, sin mando. Combinas y despiertas plantas de dragón mágicas, cuidas tu arboleda, desbloqueas habilidades de dragón útiles y creas vínculos con los dragones acariciándolos, saludándolos y acunándolos con las manos.",
+        "Todos empiezan con Pip, el dragón verde insignia, y hay 18 dragones en total disponibles en el lanzamiento, todos desbloqueables mediante progresión. El juego se lanza gratis con más de 200 niveles en 30 arboledas únicas, y se anunciará más contenido en la hoja de ruta oficial o en las notas del parche. Las monedas ganadas en los niveles pueden gastarse en la tienda en sombreros para dragones, decoraciones de cola y auras, y también pueden comprarse; no caducan."
       ],
       "stats": [
         {
           "label": "Género",
-          "value": "RPG de simulación de santuario"
+          "value": "Casual, puzles"
         },
         {
           "label": "Plataforma",
-          "value": "PC (Steam)"
+          "value": "Realidad mixta (Meta Quest 3+)"
         },
         {
-          "label": "Afinidades",
-          "value": "5"
+          "label": "Dragones en el lanzamiento",
+          "value": "18"
         },
         {
-          "label": "Niveles del bosque",
-          "value": "5"
+          "label": "Arboledas únicas",
+          "value": "30"
         },
         {
-          "label": "Etapas de vida",
-          "value": "4"
+          "label": "Niveles en el lanzamiento",
+          "value": "200+"
         },
         {
-          "label": "Zonas de expedición",
-          "value": "5"
+          "label": "Precio",
+          "value": "Gratis"
         }
       ],
-      "cta": "Explora todas las guías"
+      "cta": "Explorar todas las guías"
     },
     "explore": {
-      "title": "Explora la Dragongrove Wiki",
-      "description": "Tu centro de guías de Dragongrove sobre configuración inicial, cuidado elemental de dragones, progresión del bosque, santuarios de puzles, personalización, recompensas y noticias de lanzamiento.",
+      "title": "Explora la Dragon Grove Wiki",
+      "description": "Tu centro de guías de Dragon Grove sobre configuración inicial, resolución de puzles espaciales, vínculo con dragones, progresión de la arboleda, personalización, monedas y noticias de lanzamiento.",
       "modules": [
         {
           "order": 1,
-          "name": "Guía para principiantes de Dragongrove",
-          "description": "Los nuevos jugadores aprenden el bucle básico, la configuración inicial y la ruta de progresión temprana. Cubre la interacción con dragones, la limpieza de maleza corrompida y la familiarización con el bosque.",
+          "name": "Guía para principiantes de Dragon Grove",
+          "description": "Los jugadores nuevos aprenden el bucle básico de juego, la configuración inicial y la ruta de progresión temprana. Cubre los controles con seguimiento nativo de manos, la combinación de hojas y flores, el despertar de plantas de dragón y el encuentro con Pip.",
           "href": "/guide/dragongrove-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Explora el bosque y limpia parcelas cubiertas de niebla para abrir tu primer espacio de construcción."
+              "detail": "Ponte el casco Meta Quest 3 y configura el seguimiento nativo de manos; no necesitas mando."
             },
             {
               "label": "2",
-              "detail": "Construye nidos básicos, un comedero y un banco de leñador."
+              "detail": "Ponte cómodo sentado; Dragon Grove está diseñado para una experiencia acogedora y de baja presión."
             },
             {
               "label": "3",
-              "detail": "Eclosiona o adopta a tu primer compañero, y aliméntalo y áséalo a diario."
+              "detail": "Conoce a Pip, el dragón verde insignia con el que todos empiezan."
             },
             {
               "label": "4",
-              "detail": "Asigna a tu dragón una tarea acorde con su afinidad elemental."
+              "detail": "Combina hojas y flores con las manos para resolver tu primer puzle espacial."
             },
             {
               "label": "5",
-              "detail": "Establece una rutina de cosecha matutina de madera, Rocío Solar y Baya de Ascua."
+              "detail": "Acaricia, saluda y acuna a los dragones para fortalecer tu vínculo mientras juegas."
             },
             {
               "label": "6",
-              "detail": "Sube tu nivel de Santuario del Bosque para desbloquear los primeros posaderos elementales."
+              "detail": "Completa niveles para ganar monedas y empezar a desbloquear más dragones mediante progresión."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Guía de juego de Dragongrove",
-          "description": "Una visión completa de los sistemas principales, incluido el cuidado elemental de dragones, la terraformación del bosque, la gestión de recursos y los bucles diarios de expedición.",
+          "name": "Guía de juego de Dragon Grove",
+          "description": "Una visión completa de los sistemas principales, incluidos los puzles de combinación 3D, las interacciones con seguimiento nativo de manos, el vínculo con dragones y el bucle de progresión de la arboleda.",
           "href": "/mechanics/dragongrove-gameplay",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Bucle principal",
-              "detail": "Cuidar, cosechar, terraformar y explorar a lo largo de un ciclo de día y noche."
+              "detail": "Combina y despierta plantas de dragón mágicas, y luego cuida tu arboleda a lo largo de más de 200 niveles."
             },
             {
-              "label": "Afinidad",
-              "detail": "Empareja a los dragones con su bioma nativo para mejorar el ánimo y la producción de esencia."
+              "label": "Seguimiento de manos",
+              "detail": "Se juega enteramente con seguimiento nativo de manos: acaricia, saluda, acuna y combina con las manos."
             },
             {
-              "label": "Expedición",
-              "detail": "Envía equipos elementales a zonas de peligro para conseguir reliquias y semillas raras."
+              "label": "Puzles espaciales",
+              "detail": "Los puzles de combinación 3D introducen nuevos tipos de plantas, capas y mecánicas espaciales."
             },
             {
-              "label": "Economía",
-              "detail": "Equilibra materias primas y bienes refinados para evitar cuellos de botella."
+              "label": "Habilidades de dragón",
+              "detail": "Desbloquea habilidades de dragón útiles a medida que progresas para ayudarte con puzles más difíciles."
             },
             {
-              "label": "Hábitat",
-              "detail": "Agrupa hábitats para activar bonificaciones de sinergia pasivas."
+              "label": "Monedas",
+              "detail": "Completar niveles otorga monedas, utilizables en la tienda para sombreros, decoraciones de cola y auras."
             },
             {
-              "label": "Estaciones",
-              "detail": "El clima dinámico altera los flujos de recursos y la aparición de crías."
+              "label": "Rejugar",
+              "detail": "Vuelve a jugar arboledas para ganar más estrellas y mejorar tus resultados."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Guía de dragones de Dragongrove",
-          "description": "Presenta a los dragones compañeros, sus afinidades elementales, etapas de vida y opciones de cría para guardianes que buscan una plantilla equilibrada.",
+          "name": "Guía de dragones de Dragon Grove",
+          "description": "Presenta a los dragones de Dragon Grove, incluido Pip, el dragón verde insignia, los 18 dragones disponibles en el lanzamiento y cómo funcionan el vínculo y el desbloqueo por progresión.",
           "href": "/mechanics/dragongrove-features",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S",
-              "detail": "El Wyrm de Ascua y el Draco Verde aportan forja temprana y rendimiento de cultivos."
+              "label": "Pip",
+              "detail": "Todos empiezan con Pip, el dragón verde insignia de Dragon Grove."
             },
             {
-              "label": "A",
-              "detail": "El Wyrm Torrente y el Draco Vendaval destacan en riego y exploración rápida."
+              "label": "Plantel de lanzamiento",
+              "detail": "Hay 18 dragones en total disponibles en el lanzamiento, todos desbloqueables mediante progresión."
             },
             {
-              "label": "B",
-              "detail": "El Draco Umbrío brilla en escondrijos nocturnos, pero necesita un hábitat de sombra."
+              "label": "Vínculo",
+              "detail": "Acaricia, saluda y acuna a los dragones con las manos para fortalecer tu relación."
             },
             {
-              "label": "C",
-              "detail": "Las razas iniciales como el Ascuilla y la Serpiente Ondulada pierden fuerza después."
+              "label": "Habilidades",
+              "detail": "Desbloquea habilidades de dragón útiles a medida que progresas por las arboledas."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Guía de puzles de Dragongrove",
-          "description": "Una guía centrada en resolver los santuarios de puzles espaciales del bosque, entender la mecánica de emparejamiento de plantas y mejorar la eficiencia.",
+          "name": "Guía de puzles de Dragon Grove",
+          "description": "Una guía centrada en resolver los puzles espaciales 3D de la arboleda, entender las mecánicas de combinación de plantas y mejorar la eficiencia resolviendo puzles con seguimiento de manos.",
           "href": "/guide/dragongrove-walkthrough",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Examina la disposición del santuario antes de mover nada para detectar el patrón previsto."
+              "detail": "Examina la disposición del puzle antes de mover nada para detectar el patrón previsto."
             },
             {
               "label": "2",
-              "detail": "Empareja plantas por color elemental para abrir la puerta sellada del bosque."
+              "detail": "Combina hojas y flores con las manos para despertar plantas de dragón mágicas."
             },
             {
               "label": "3",
-              "detail": "Gira y alinea los pilares rúnicos para que sus haces de luz conecten."
+              "detail": "Atento a nuevos tipos de plantas, capas y mecánicas espaciales a medida que avanzas."
             },
             {
               "label": "4",
-              "detail": "Reclama el cofre de recompensa que se desbloquea tras cada santuario resuelto."
+              "detail": "Usa las habilidades de dragón desbloqueadas y las mejoras opcionales cuando un puzle necesite una combinación extra."
             }
           ]
         },
         {
           "order": 5,
-          "name": "Guía de niveles de Dragongrove",
-          "description": "Explica la estructura de niveles del bosque, la capacidad de dragones, los requisitos de poder y cómo se amplía el contenido a medida que avanzas.",
+          "name": "Guía de niveles de Dragon Grove",
+          "description": "Explica la estructura de la arboleda en el lanzamiento, cómo se reparten los más de 200 niveles entre 30 arboledas únicas y cómo se amplía el contenido a medida que los cuidadores avanzan.",
           "href": "/mechanics/dragongrove-progression",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Nivel I",
-              "detail": "Claro Verdeante: 4 dragones, nidos básicos y el aserradero."
+              "label": "Niveles de lanzamiento",
+              "detail": "Más de 200 niveles en el lanzamiento repartidos en 30 arboledas únicas."
             },
             {
-              "label": "Nivel II",
-              "detail": "Claro Susurrante: 8 dragones, posaderos de piedra y el jardín de hierbas."
+              "label": "Arboledas",
+              "detail": "Treinta arboledas únicas, cada una con nuevos tipos de plantas, capas y mecánicas espaciales."
             },
             {
-              "label": "Nivel III",
-              "detail": "Copa Brillante: 16 dragones, hábitats de doble elemento y el altar."
+              "label": "Estrellas",
+              "detail": "Gana estrellas en los niveles y vuelve a jugar arboledas para ganar más."
             },
             {
-              "label": "Nivel IV",
-              "detail": "Bastión Dracónico: 28 dragones, bóvedas celestes y el criadero encantado."
+              "label": "Monedas",
+              "detail": "Completar niveles otorga monedas para la tienda."
             },
             {
-              "label": "Nivel V",
-              "detail": "Santuario Prismático: más de 45 dragones, monolitos legendarios y el conducto ley."
+              "label": "Contenido futuro",
+              "detail": "Se anunciará más contenido en la hoja de ruta oficial o en las notas del parche."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Guía de personalización de Dragongrove",
-          "description": "Cubre cosméticos de dragones, sillas de montar, accesorios, reliquias de guardián y decoración del santuario que hacen únicos a cada compañero y bosque.",
+          "name": "Guía de personalización de Dragon Grove",
+          "description": "Cubre las opciones cosméticas de la tienda de Dragon Grove, incluidos sombreros para dragones, decoraciones de cola y auras compradas con monedas.",
           "href": "/items/dragongrove-equipment",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Sillas",
-              "detail": "Las sillas fabricables cambian el manejo de vuelo y desbloquean nuevas rutas."
+              "label": "Sombreros",
+              "detail": "Los sombreros para dragones están disponibles en la tienda usando monedas."
             },
             {
-              "label": "Escamas",
-              "detail": "Los tintes y patrones cosméticos de escamas salen de parejas de cría raras."
-            },
-            {
-              "label": "Reliquias",
-              "detail": "Las reliquias de guardián añaden bonificaciones pasivas a doma y exploración."
-            },
-            {
-              "label": "Decoración",
-              "detail": "Las lámparas de cristal y los tótems otorgan micro-mejoras a los hábitats cercanos."
+              "label": "Decoraciones de cola",
+              "detail": "Las decoraciones de cola pueden comprarse en la tienda con monedas."
             },
             {
               "label": "Auras",
-              "detail": "Las auras cosméticas legendarias marcan expediciones impecables."
+              "detail": "Las auras son objetos cosméticos ofrecidos en la tienda por monedas."
+            },
+            {
+              "label": "Juguetes para dragones",
+              "detail": "Desbloqueables opcionales que maximizan la interacción con los dragones, como jugar a buscar y dar a tu dragón una percha personalizada, sin impacto en la jugabilidad."
+            },
+            {
+              "label": "Perchas",
+              "detail": "Los juguetes para dragones pueden dar a tu dragón una percha personalizada para una interacción adicional."
             }
           ]
         },
         {
           "order": 7,
-          "name": "Guía de monedas de Dragongrove",
-          "description": "Explica el sistema de moneda y recompensas, incluidos el oro, la esencia del bosque y los materiales raros usados para mejoras y cría.",
+          "name": "Guía de monedas de Dragon Grove",
+          "description": "Explica el sistema de monedas y recompensas, incluido cómo se ganan monedas en los niveles, cómo se gastan en la tienda y cómo funcionan las compras.",
           "href": "/items/dragongrove-rewards",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Oro",
-              "detail": "Moneda principal para mantenimiento de hábitats, comercio y reparación de herramientas."
+              "label": "Ganar",
+              "detail": "Completar niveles otorga monedas."
             },
             {
-              "label": "Esencia",
-              "detail": "La Esencia del Bosque impulsa mejoras de terraformación y despeje de terreno."
+              "label": "Gastar",
+              "detail": "Las monedas pueden usarse en la tienda para sombreros para dragones, decoraciones de cola y auras."
             },
             {
-              "label": "Fragmentos",
-              "detail": "Los Fragmentos de Piedra Solar desbloquean hábitats de nivel II y la minería de piedra."
+              "label": "Comprar",
+              "detail": "Las monedas también pueden comprarse y no caducan."
             },
             {
-              "label": "Ámbar",
-              "detail": "El Ámbar de Dragón alimenta altares de cruce y posaderos raros."
+              "label": "Mejoras",
+              "detail": "Las mejoras de dragón son potenciadores que otorgan una combinación o uso de habilidad extra."
             },
             {
-              "label": "Ascuas",
-              "detail": "Las Ascuas Prismáticas refinan reliquias de endgame y equipo legendario."
+              "label": "No es pay to win",
+              "detail": "Todos los niveles pueden completarse sin potenciadores."
             }
           ]
         },
         {
           "order": 8,
-          "name": "Guía de lanzamiento de Dragongrove",
-          "description": "Ofrece la información más reciente sobre fechas de lanzamiento, plataformas compatibles, requisitos de dispositivo y anuncios oficiales.",
+          "name": "Guía de lanzamiento de Dragon Grove",
+          "description": "Proporciona la información más reciente sobre la fecha de lanzamiento, los dispositivos compatibles, los requisitos de juego y los anuncios oficiales.",
           "href": "/updates/dragongrove-release-date",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Plataforma",
-              "detail": "Primero PC en Steam, con ports a consolas previstos tras el lanzamiento."
+              "detail": "Realidad mixta en cascos Meta Quest 3 y superiores."
             },
             {
-              "label": "Prueba",
-              "detail": "Las pruebas cerradas se ejecutan por oleadas mediante registros de la comunidad."
+              "label": "Precio",
+              "detail": "Gratis."
             },
             {
-              "label": "Demo",
-              "detail": "Está prevista una demo pública gratuita de Steam para un showcase de temporada."
+              "label": "Ventana de lanzamiento",
+              "detail": "Previsto para la primavera de 2027."
+            },
+            {
+              "label": "Controles",
+              "detail": "Se juega enteramente con seguimiento nativo de manos; sin mando."
             },
             {
               "label": "Hoja de ruta",
-              "detail": "El Acceso Anticipado apunta a los sistemas principales con actualizaciones iterativas."
+              "detail": "Contenido adicional que se anunciará en la hoja de ruta oficial o en las notas del parche."
             },
             {
-              "label": "Lanzamiento",
-              "detail": "La versión completa 1.0 añade cría de endgame y venta mundial."
-            },
-            {
-              "label": "Requisitos",
-              "detail": "Recomendado: 16 GB de RAM, RTX 3060 y SSD NVMe de 30 GB."
+              "label": "Estudio",
+              "detail": "Un proyecto de cliente de Schell Games en colaboración con Meta."
             }
           ]
         }
@@ -412,73 +412,73 @@
     },
     "faq": {
       "title": "Preguntas frecuentes",
-      "description": "Respuestas rápidas a las preguntas más comunes sobre Dragongrove.",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Dragon Grove.",
       "items": [
         {
-          "question": "¿Qué es Dragongrove?",
-          "answer": "Dragongrove es un juego de gestión de santuario de fantasía en el que restauras un bosque mágico y crías dragones elementales. Limpias terreno corrompido, construyes hábitats, crías nuevos dragones y envías equipos de expedición a biomas peligrosos."
+          "question": "¿Qué es Dragon Grove?",
+          "answer": "Dragon Grove es un acogedor juego de puzles espaciales 3D de realidad mixta de Schell Games, creado en colaboración con Meta. Está diseñado exclusivamente para realidad mixta en Meta Quest 3 y superiores, y se juega enteramente con seguimiento nativo de manos. Combinas y despiertas plantas de dragón mágicas, cuidas tu arboleda, desbloqueas habilidades de dragón útiles y creas vínculos con los dragones."
         },
         {
-          "question": "¿Cómo subo mi nivel de Santuario del Bosque en Dragongrove?",
-          "answer": "Completa hitos de restauración, eclosiona nuevas especies y mantén felices a tus compañeros. Cada nivel desbloquea nuevas superficies de hábitat y estructuras como la Guardería y la Forja Alquímica."
+          "question": "¿Cómo progreso en Dragon Grove?",
+          "answer": "Progresa completando los más de 200 niveles disponibles en el lanzamiento repartidos en 30 arboledas únicas, ganando monedas y estrellas por el camino. Todos empiezan con Pip, el dragón verde insignia, y los 18 dragones disponibles en el lanzamiento se desbloquean mediante progresión."
         },
         {
-          "question": "¿Cuáles son las afinidades elementales en Dragongrove?",
-          "answer": "Los dragones pertenecen a afinidades como Ascua, Verde, Torrente, Vendaval y Umbrío. Emparejar a un dragón con su bioma nativo mejora el ánimo, la producción de esencia y las ventajas de expedición."
+          "question": "¿Qué dragones hay en Dragon Grove?",
+          "answer": "Todos empiezan con Pip, el dragón verde insignia. Hay 18 dragones en total disponibles en el lanzamiento, y todos son desbloqueables mediante progresión. Los nombres y habilidades específicos de los dragones más allá de Pip no están documentados en este momento."
         },
         {
-          "question": "¿Cómo funcionan las expediciones en Dragongrove?",
-          "answer": "Envías equipos elementales a zonas como el Matorral de Zarzales o la Grieta de Escarcha. Ajusta las resistencias del grupo al bioma, lleva provisiones y vuelve con reliquias, runas y huevos raros."
+          "question": "¿Cómo funcionan las monedas en Dragon Grove?",
+          "answer": "Completar niveles otorga monedas, utilizables en la tienda para sombreros para dragones, decoraciones de cola y auras. Las monedas también pueden comprarse y no caducan. Las mejoras de dragón son potenciadores que otorgan una combinación o uso de habilidad extra, pero todos los niveles pueden completarse sin potenciadores, así que el juego no es pay to win."
         },
         {
-          "question": "¿Dragongrove es gratis?",
-          "answer": "Dragongrove está planeado como un lanzamiento de pago en PC por Steam con una fase de Acceso Anticipado, seguido de ports a consolas tras el lanzamiento."
+          "question": "¿Dragon Grove es gratis?",
+          "answer": "Sí. Dragon Grove es gratis, con un lanzamiento previsto para la primavera de 2027 en cascos Meta Quest 3 y superiores. Las monedas pueden comprarse, pero todos los niveles pueden completarse sin potenciadores."
         },
         {
-          "question": "¿De dónde salen las recompensas en Dragongrove?",
-          "answer": "Las recompensas provienen de santuarios de puzles, centinelas de élite y botines de jefes. Consulta la guía de recompensas de Dragongrove para ver niveles de cofre, tasas de botín y rutas de farmeo."
+          "question": "¿Qué funciones se anuncian para Dragon Grove?",
+          "answer": "Las funciones oficiales incluyen recompensas por rachas diarias, amuletos mágicos, conocer nuevos dragones, seguir los viajes de tus amigos, puzles de combinación 3D con nuevos tipos de plantas, capas y mecánicas espaciales, y volver a jugar arboledas para ganar más estrellas. La FAQ oficial afirma que el arte, los recursos de personajes y la jugabilidad no contienen componentes de IA."
         }
       ]
     },
     "finalCta": {
-      "title": "¿Listo para explorar Dragongrove?",
-      "description": "Desde tu primer dragón compañero hasta más de 200 niveles de puzles espaciales, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
-      "primary": "Lee la guía para principiantes",
-      "secondary": "Juega en Meta Quest"
+      "title": "¿Listo para explorar Dragon Grove?",
+      "description": "Desde tu primer compañero dragón hasta más de 200 niveles de puzles espaciales, nuestra wiki comunitaria te lo cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Meta Quest"
     }
   },
   "guide": {
-    "overviewTitle": "Guías y trucos de Dragongrove",
-    "overviewDescription": "Guías para principiantes, recorridos completos, análisis y trucos prácticos para que todo guardián domine Dragongrove."
+    "overviewTitle": "Guías y consejos de Dragon Grove",
+    "overviewDescription": "Guías para principiantes, recorridos completos, análisis y consejos prácticos para ayudar a cada cuidador a dominar Dragon Grove."
   },
   "maps": {
-    "overviewTitle": "Mapas y zonas de Dragongrove",
-    "overviewDescription": "Explora mapas, ubicaciones, regiones y guías del mundo de Dragongrove que cubren cada zona del santuario."
+    "overviewTitle": "Mapas y zonas de Dragon Grove",
+    "overviewDescription": "Explora mapas de Dragon Grove, arboledas, ubicaciones y guías del mundo que cubren cada zona del santuario."
   },
   "mechanics": {
-    "overviewTitle": "Mecánicas de juego de Dragongrove",
-    "overviewDescription": "Comprende las misiones, la progresión, los objetivos y los sistemas de juego principales detrás del bosque."
+    "overviewTitle": "Mecánicas de juego de Dragon Grove",
+    "overviewDescription": "Comprende los puzles, la progresión, los objetivos y los sistemas de juego principales detrás de la arboleda de Dragon Grove."
   },
   "items": {
-    "overviewTitle": "Objetos y creación de Dragongrove",
-    "overviewDescription": "Explora objetos, equipo, recetas de creación, recursos y recompensas de Dragongrove en un solo lugar."
+    "overviewTitle": "Tienda y personalización de Dragon Grove",
+    "overviewDescription": "Explora objetos de la tienda de Dragon Grove, cosméticos, amuletos, mejoras, monedas y recompensas en un solo lugar."
   },
   "updates": {
-    "overviewTitle": "Noticias y novedades de Dragongrove",
-    "overviewDescription": "Las últimas novedades de Dragongrove, noticias de fecha de lanzamiento, anuncios y cobertura de parches."
+    "overviewTitle": "Noticias y novedades de Dragon Grove",
+    "overviewDescription": "Las últimas novedades de Dragon Grove, noticias sobre la fecha de lanzamiento, anuncios de la hoja de ruta oficial y cobertura de parches."
   },
   "community": {
-    "overviewTitle": "Comunidad de Dragongrove",
-    "overviewDescription": "Enlaces de la comunidad de Dragongrove, hubs de Reddit y Discord, noticias del desarrollador y respuestas a preguntas frecuentes."
+    "overviewTitle": "Comunidad de Dragon Grove",
+    "overviewDescription": "Enlaces de la comunidad de Dragon Grove, noticias del desarrollador Schell Games y respuestas a preguntas frecuentes."
   },
   "shared": {
     "wikiNavigation": "Navegación de la wiki",
-    "activeCodes": "Códigos activos",
+    "activeCodes": "Novedades",
     "updated": "Actualizado",
-    "viewAllCodes": "Ver todos los códigos",
-    "playOnRoblox": "Jugar en Roblox",
+    "viewAllCodes": "Ver todas las novedades",
+    "playOnRoblox": "Jugar en Meta Quest",
     "inThisSection": "En esta sección",
-    "tableOfContents": "Tabla de contenidos",
+    "tableOfContents": "Índice",
     "nextSteps": "Próximos pasos",
     "needHelp": "¿Necesitas ayuda?",
     "relatedReading": "Lecturas relacionadas",
@@ -489,21 +489,21 @@
     "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
   },
   "footer": {
-    "aboutTitle": "Dragongrove Wiki",
-    "about": "Dragongrove Wiki es un centro de guías independiente creado por fans que cubre dragones compañeros, puzles espaciales, niveles, personalización, monedas y conocimientos esenciales del juego para jugadores nuevos y veteranos.",
+    "aboutTitle": "Dragon Grove Wiki",
+    "about": "Dragon Grove Wiki es un centro de guías independiente creado por fans que cubre el vínculo con dragones, puzles espaciales, niveles, personalización, monedas y conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
     "quickLinks": "Enlaces rápidos",
     "guides": "Guías",
     "legal": "Legal",
-    "copyright": "2026 Dragongrove Wiki. Sin afiliación con Schell Games ni Meta.",
-    "description": "Juego cozy de puzles espaciales 3D gratis con dragones mágicos compañeros en Meta Quest.",
-    "playGame": "Jugar a Dragongrove",
-    "officialDiscord": "Discord oficial",
+    "copyright": "2026 Dragon Grove Wiki. No está afiliada a Schell Games ni a Meta.",
+    "description": "Juego gratuito y acogedor de puzles espaciales 3D con compañeros dragones mágicos en Meta Quest 3 y superiores.",
+    "playGame": "Jugar a Dragon Grove",
+    "officialDiscord": "Sitio oficial",
     "officialYoutube": "YouTube oficial",
     "vvBuilder": "Sitio web oficial",
     "beginnerGuide": "Guía para principiantes",
     "mapGuide": "Guía de mapas",
     "gameplayGuide": "Guía de juego",
-    "craftingGuide": "Guía de creación",
+    "craftingGuide": "Guía de personalización",
     "privacyPolicy": "Política de privacidad",
     "termsOfService": "Términos de servicio"
   }

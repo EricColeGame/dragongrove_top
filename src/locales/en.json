@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "Dragongrove Wiki",
-    "shortName": "Dragongrove",
-    "tagline": "Dragon Guides, Puzzle Tips & Updates",
-    "description": "Dragongrove is a fantasy adventure game focused on exploring magical environments, discovering dragons, and building connections with mythical creatures.",
+    "name": "Dragon Grove Wiki",
+    "shortName": "Dragon Grove",
+    "tagline": "Puzzle Guides, Dragon Tips & Updates",
+    "description": "Dragon Grove is a cozy mixed-reality 3D spatial puzzle game by Schell Games, made with Meta for Meta Quest 3 and up. Match and awaken magical dragon plants, foster your grove, unlock dragon abilities and bond with dragons.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -19,18 +19,18 @@
   },
   "home": {
     "meta": {
-      "title": "Dragongrove Wiki - Dragons, Guide & Updates",
-      "description": "Explore the Dragongrove Wiki for dragon guides, gameplay tips, creature information, updates, and useful resources for fantasy adventure players."
+      "title": "Dragon Grove Wiki - Dragons, Puzzle Guide & Updates",
+      "description": "Explore the Dragon Grove Wiki for spatial puzzle guides, dragon tips, grove progression, customization, coins, updates and useful resources for Meta Quest players."
     },
     "hero": {
-      "eyebrow": "Fantasy Dragon Adventure Game",
-      "title": "Dragongrove Wiki",
-      "description": "Dragongrove is a fantasy adventure game focused on exploring magical environments, discovering dragons, and building connections with mythical creatures.",
+      "eyebrow": "Cozy Mixed-Reality Dragon Puzzle Game",
+      "title": "Dragon Grove Wiki",
+      "description": "Dragon Grove is a cozy mixed-reality 3D spatial puzzle game for Meta Quest 3 and up. Match and awaken magical dragon plants, foster your grove, unlock helpful dragon abilities and bond with dragons.",
       "stats": [
         "Total Visits",
         "Dragons Available",
-        "Active Codes",
-        "Daily Updates"
+        "Levels at Launch",
+        "Unique Groves"
       ],
       "primaryCta": "Play Free on Meta Quest",
       "secondaryCta": "Beginner Guide",
@@ -44,27 +44,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Dragongrove Journey",
+      "title": "Your Dragon Grove Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the core loop: clear corrupted overgrowth, build your first nesting grounds, and hatch a dragon companion."
+          "description": "Learn the core loop: match leaves and flowers with your hands, awaken dragon plants, and start bonding with your first dragon."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Raise your Grove Sanctuary Level quickly by clearing milestones, hatching new species, and keeping companions happy."
+          "title": "Grove Progression",
+          "description": "Work through 200+ levels across 30 unique groves at launch, earning Coins and stars as you clear spatial puzzles."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Farm Grove Timber, Sunlit Dew, and Emberberry on efficient daily routes around the sanctuary."
+          "title": "Dragon Abilities",
+          "description": "Unlock helpful dragon abilities as you progress and use them to solve tougher puzzle layouts."
         },
         {
           "number": "4",
-          "title": "How to Evolve",
-          "description": "Guide dragons from Hatchling to Primal Elder with affinity-matched feeding, grooming, and habitat care."
+          "title": "Dragon Bonding",
+          "description": "Pet, wave to and cradle dragons using native hand tracking, and replay groves to earn more stars."
         }
       ]
     },
@@ -73,338 +73,338 @@
       "title": "Trending Now",
       "quickLinks": [
         "Grove Progression",
-        "Dragon Affinities",
-        "Resource Farming",
-        "Expedition Zones"
+        "Dragon Abilities",
+        "Spatial Puzzles",
+        "Coins & Customization"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first perch to clearing corrupted terrain and hatching your first drake.",
+          "description": "Everything you need from your first match to awakening dragon plants and meeting Pip, the signature green dragon.",
           "href": "/guide/dragongrove-beginner-guide"
         },
         {
           "badge": "Core",
           "title": "Gameplay Mechanics",
-          "description": "Daily cycles, elemental care, terraforming, and the resource loops that drive grove growth.",
+          "description": "Native hand tracking, 3D matching puzzles, plant types, layers and spatial mechanics at the heart of Dragon Grove.",
           "href": "/mechanics/dragongrove-gameplay"
         },
         {
           "badge": "Popular",
-          "title": "Dragon Affinity Guide",
-          "description": "Match Ember, Verdant, Torrent, Gale, and Umbral dragons to their native biomes and best roles.",
+          "title": "Dragons Guide",
+          "description": "Meet the 18 dragons available at launch, all unlockable through progression, and learn how bonding works.",
           "href": "/mechanics/dragongrove-features"
         },
         {
           "badge": "Updated",
-          "title": "Progression Tiers",
-          "description": "All five grove tiers from Verdant Clearing to Prismatic Sanctuary with their unlock requirements.",
+          "title": "Grove Progression",
+          "description": "How the 30 unique groves and 200+ launch levels fit together, plus stars and replay value.",
           "href": "/mechanics/dragongrove-progression"
         },
         {
           "badge": "Popular",
-          "title": "Resource Farming",
-          "description": "Best routes and refining methods for timber, ores, draconic byproducts, and elemental catalysts.",
+          "title": "Coins & Rewards",
+          "description": "Completing levels earns Coins for the shop. Learn where Coins come from and what they can buy.",
           "href": "/items/dragongrove-resources"
         },
         {
           "badge": "Updated",
-          "title": "Rewards & Drop Rates",
-          "description": "Cache tiers, boss drops, and efficient farming routes for every stage of the grove.",
+          "title": "Shop & Customization",
+          "description": "Dragon hats, tail decorations and auras available with Coins, plus optional dragon toys and boosts.",
           "href": "/items/dragongrove-rewards"
         },
         {
           "badge": "New",
-          "title": "Crafting Stations",
-          "description": "Workstation tiers from the Carpenter's Bench to the Broodflame Hearth and their recipes.",
+          "title": "Charms & Abilities",
+          "description": "Magical charms, daily streak rewards and helpful dragon abilities that support your puzzle solving.",
           "href": "/items/dragongrove-crafting"
         },
         {
           "badge": "Popular",
-          "title": "World & Biomes",
-          "description": "Layered islands, wind tunnels, and the elemental biomes that shape dragon habitat planning.",
+          "title": "World & Groves",
+          "description": "Thirty unique groves to foster, each with new plant types, layers and spatial puzzle mechanics.",
           "href": "/maps/dragongrove-world"
         },
         {
           "badge": "Updated",
           "title": "Release Date",
-          "description": "Platforms, playtest waves, demo plans, and the roadmap toward the full launch.",
+          "description": "Free-to-play launch expected in spring 2027 for Meta Quest 3 and up. Official roadmap details to be announced.",
           "href": "/updates/dragongrove-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Dragongrove?",
+      "title": "What is Dragon Grove?",
       "paragraphs": [
-        "Dragongrove is a fantasy sanctuary management and adventure game where you restore a fractured grove and raise mythical dragons. You clear corrupted overgrowth, build elemental habitats, and bond with drakes that each belong to an affinity such as Ember, Verdant, Torrent, Gale, or Umbral.",
-        "Progression runs on a day-night cycle of foraging, terraforming, breeding, and expeditions. As your Grove Sanctuary Level rises you unlock dual-element habitats, cross-breeding altars, and high-altitude expedition routes filled with relics, rare seeds, and primal dragon eggs."
+        "Dragon Grove is a cozy mixed-reality 3D spatial puzzle game by Schell Games, made in collaboration with Meta. Designed exclusively for Mixed Reality on Meta Quest 3 and up, it is played entirely with native hand tracking — no controller. You match and awaken magical dragon plants, foster your grove, unlock helpful dragon abilities and bond with dragons by petting, waving and cradling them with your hands.",
+        "Everyone starts with Pip, the signature green dragon, and 18 dragons total are available at launch, all unlockable through progression. The game launches free to play with 200+ levels across 30 unique groves, with more content to be announced in the official roadmap and/or patch notes. Coins earned from levels can be spent in the shop on dragon hats, tail decorations and auras, and can also be purchased; they do not expire."
       ],
       "stats": [
         {
           "label": "Genre",
-          "value": "Sanctuary Sim RPG"
+          "value": "Casual, Puzzle"
         },
         {
           "label": "Platform",
-          "value": "PC (Steam)"
+          "value": "Mixed Reality (Meta Quest 3+)"
         },
         {
-          "label": "Affinities",
-          "value": "5"
+          "label": "Dragons at Launch",
+          "value": "18"
         },
         {
-          "label": "Grove Tiers",
-          "value": "5"
+          "label": "Unique Groves",
+          "value": "30"
         },
         {
-          "label": "Life Stages",
-          "value": "4"
+          "label": "Levels at Launch",
+          "value": "200+"
         },
         {
-          "label": "Expedition Zones",
-          "value": "5"
+          "label": "Price",
+          "value": "Free to play"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Dragongrove Wiki",
-      "description": "Your hub for Dragongrove guides covering beginner setup, elemental dragon care, grove progression, puzzle shrines, customization, rewards, and release news.",
+      "title": "Explore Dragon Grove Wiki",
+      "description": "Your hub for Dragon Grove guides covering beginner setup, spatial puzzle solving, dragon bonding, grove progression, customization, coins and release news.",
       "modules": [
         {
           "order": 1,
-          "name": "Dragongrove Beginner Guide",
-          "description": "New players learn the basic gameplay loop, first-time setup, and early progression path. It covers interacting with dragons, clearing corrupted overgrowth, and building familiarity with the grove.",
+          "name": "Dragon Grove Beginner Guide",
+          "description": "New players learn the basic gameplay loop, first-time setup, and early progression path. It covers native hand tracking controls, matching leaves and flowers, awakening dragon plants, and meeting Pip.",
           "href": "/guide/dragongrove-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Scout the grove and clear mist-covered plots to open your first building space."
+              "detail": "Put on your Meta Quest 3 headset and set up native hand tracking — no controller needed."
             },
             {
               "label": "2",
-              "detail": "Build basic nesting grounds, a feeding trough, and a woodcutter bench."
+              "detail": "Get comfortable seated; Dragon Grove is designed as cozy, low-stress play."
             },
             {
               "label": "3",
-              "detail": "Hatch or adopt your first companion, then feed and groom it daily."
+              "detail": "Meet Pip, the signature green dragon everyone starts with."
             },
             {
               "label": "4",
-              "detail": "Assign your drake to a task that matches its elemental affinity."
+              "detail": "Match leaves and flowers with your hands to solve your first spatial puzzle."
             },
             {
               "label": "5",
-              "detail": "Set a morning harvest routine for timber, Sunlit Dew, and Emberberry."
+              "detail": "Pet, wave to and cradle dragons to build your bond as you play."
             },
             {
               "label": "6",
-              "detail": "Raise your Grove Sanctuary Level to unlock the first elemental roosts."
+              "detail": "Complete levels to earn Coins and begin unlocking more dragons through progression."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Dragongrove Gameplay Guide",
-          "description": "A comprehensive overview of the core systems, including elemental dragon care, grove terraforming, resource management, and daily expedition loops.",
+          "name": "Dragon Grove Gameplay Guide",
+          "description": "A comprehensive overview of the core systems, including 3D matching puzzles, native hand tracking interactions, dragon bonding, and the grove progression loop.",
           "href": "/mechanics/dragongrove-gameplay",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Core Loop",
-              "detail": "Nurture, harvest, terraform, and explore across a day-night cycle."
+              "detail": "Match and awaken magical dragon plants, then foster your grove across 200+ levels."
             },
             {
-              "label": "Affinity",
-              "detail": "Match dragons to their native biome to boost mood and essence output."
+              "label": "Hand Tracking",
+              "detail": "Played entirely with native hand tracking — pet, wave, cradle and match by hand."
             },
             {
-              "label": "Expedition",
-              "detail": "Send elemental teams into hazard zones for relics and rare seeds."
+              "label": "Spatial Puzzles",
+              "detail": "3D matching puzzles introduce new plant types, layers and spatial mechanics."
             },
             {
-              "label": "Economy",
-              "detail": "Balance raw materials against refined goods to avoid bottlenecks."
+              "label": "Dragon Abilities",
+              "detail": "Unlock helpful dragon abilities as you progress to support tougher puzzles."
             },
             {
-              "label": "Habitat",
-              "detail": "Zone habitats together to trigger passive synergy bonuses."
+              "label": "Coins",
+              "detail": "Completing levels earns Coins, usable in the shop for hats, tail decorations and auras."
             },
             {
-              "label": "Seasons",
-              "detail": "Dynamic weather shifts resource flushes and hatchling spawns."
+              "label": "Replay",
+              "detail": "Replay groves to earn more stars and improve your results."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Dragongrove Dragons Guide",
-          "description": "Introduces dragon companions, their elemental affinities, life stages, and breeding options for keepers building a balanced roster.",
+          "name": "Dragon Grove Dragons Guide",
+          "description": "Introduces the dragons of Dragon Grove, including Pip the signature green dragon, the 18 dragons available at launch, and how bonding and unlock progression work.",
           "href": "/mechanics/dragongrove-features",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Ember Wyrm and Verdant Drake carry early forging and crop yields."
+              "label": "Pip",
+              "detail": "Everyone starts with Pip, the signature green dragon of Dragon Grove."
             },
             {
-              "label": "A",
-              "detail": "Torrent Wyrm and Gale Drake excel at irrigation and fast scouting."
+              "label": "Launch Roster",
+              "detail": "18 dragons total are available at launch, all unlockable through progression."
             },
             {
-              "label": "B",
-              "detail": "Umbral Drake shines in night caches but needs a shadow habitat."
+              "label": "Bonding",
+              "detail": "Pet, wave to and cradle dragons with your hands to build your relationship."
             },
             {
-              "label": "C",
-              "detail": "Starter breeds such as Emberling and Ripple Serpent fall off later."
+              "label": "Abilities",
+              "detail": "Unlock helpful dragon abilities as you progress through the groves."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Dragongrove Puzzle Guide",
-          "description": "A guide focused on solving the grove's spatial puzzle shrines, understanding plant matching mechanics, and improving puzzle-solving efficiency.",
+          "name": "Dragon Grove Puzzle Guide",
+          "description": "A guide focused on solving the grove's 3D spatial puzzles, understanding plant matching mechanics, and improving puzzle-solving efficiency with hand tracking.",
           "href": "/guide/dragongrove-walkthrough",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Scan the shrine layout before moving anything to spot the intended pattern."
+              "detail": "Scan the puzzle layout before moving anything to spot the intended pattern."
             },
             {
               "label": "2",
-              "detail": "Match plants by elemental color to open the sealed grove gate."
+              "detail": "Match leaves and flowers with your hands to awaken magical dragon plants."
             },
             {
               "label": "3",
-              "detail": "Rotate and align rune pillars so their light beams connect."
+              "detail": "Watch for new plant types, layers and spatial mechanics as you progress."
             },
             {
               "label": "4",
-              "detail": "Claim the reward cache that unlocks after every solved shrine."
+              "detail": "Use unlocked dragon abilities and optional boosts when a puzzle needs an extra match."
             }
           ]
         },
         {
           "order": 5,
-          "name": "Dragongrove Levels Guide",
-          "description": "Explains the grove tier structure, dragon capacity, power requirements, and how content expands as keepers advance.",
+          "name": "Dragon Grove Levels Guide",
+          "description": "Explains the grove structure at launch, how the 200+ levels are spread across 30 unique groves, and how content expands as keepers advance.",
           "href": "/mechanics/dragongrove-progression",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Tier I",
-              "detail": "Verdant Clearing - 4 dragons, basic nests, and the timber mill."
+              "label": "Launch Levels",
+              "detail": "200+ levels at launch across 30 unique groves."
             },
             {
-              "label": "Tier II",
-              "detail": "Whispering Glade - 8 dragons, stone roosts, and the herbal garden."
+              "label": "Groves",
+              "detail": "Thirty unique groves, each introducing new plant types, layers and spatial mechanics."
             },
             {
-              "label": "Tier III",
-              "detail": "Shimmering Canopy - 16 dragons, dual-element habitats, and the altar."
+              "label": "Stars",
+              "detail": "Earn stars in levels and replay groves to earn more."
             },
             {
-              "label": "Tier IV",
-              "detail": "Draconic Bastion - 28 dragons, sky vaults, and the enchanted hatchery."
+              "label": "Coins",
+              "detail": "Completing levels earns Coins for the shop."
             },
             {
-              "label": "Tier V",
-              "detail": "Prismatic Sanctuary - 45+ dragons, legendary monoliths, and the ley conduit."
+              "label": "Future Content",
+              "detail": "More content to be announced in the official roadmap and/or patch notes."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Dragongrove Customization Guide",
-          "description": "Covers dragon cosmetics, saddles, accessories, keeper relics, and sanctuary decor that make each companion and grove unique.",
+          "name": "Dragon Grove Customization Guide",
+          "description": "Covers the cosmetic options in Dragon Grove's shop, including dragon hats, tail decorations and auras bought with Coins.",
           "href": "/items/dragongrove-equipment",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Saddles",
-              "detail": "Craftable saddles change flight handling and unlock new routes."
+              "label": "Hats",
+              "detail": "Dragon hats are available in the shop using Coins."
             },
             {
-              "label": "Scales",
-              "detail": "Cosmetic scale dyes and patterns drop from rare breeding pairs."
-            },
-            {
-              "label": "Relics",
-              "detail": "Keeper relics add passive bonuses to taming and exploration."
-            },
-            {
-              "label": "Decor",
-              "detail": "Crystal lamps and totems grant micro-buffs to nearby habitats."
+              "label": "Tail Decorations",
+              "detail": "Tail decorations can be purchased in the shop with Coins."
             },
             {
               "label": "Auras",
-              "detail": "Legendary cosmetic auras mark flawless expedition clears."
+              "detail": "Auras are cosmetic items offered in the shop for Coins."
+            },
+            {
+              "label": "Dragon Toys",
+              "detail": "Optional unlockables that maximise dragon interaction, such as playing fetch and giving your dragon a custom perch, with no impact on gameplay."
+            },
+            {
+              "label": "Perches",
+              "detail": "Dragon toys can give your dragon a custom perch for additional interaction."
             }
           ]
         },
         {
           "order": 7,
-          "name": "Dragongrove Coins Guide",
-          "description": "Explains the currency and reward system, including gold, grove essence, and the rare materials used for upgrades and breeding.",
+          "name": "Dragon Grove Coins Guide",
+          "description": "Explains the Coin and reward system, including how Coins are earned from levels, how they are spent in the shop, and how purchases work.",
           "href": "/items/dragongrove-rewards",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Gold",
-              "detail": "Primary coin for habitat upkeep, merchant trades, and tool repair."
+              "label": "Earn",
+              "detail": "Completing levels earns Coins."
             },
             {
-              "label": "Essence",
-              "detail": "Grove Essence fuels terraforming and land-clearance upgrades."
+              "label": "Spend",
+              "detail": "Coins are usable in the shop for dragon hats, tail decorations and auras."
             },
             {
-              "label": "Shards",
-              "detail": "Sunstone Shards gate Tier II habitats and stone mining."
+              "label": "Purchase",
+              "detail": "Coins can also be purchased and do not expire."
             },
             {
-              "label": "Amber",
-              "detail": "Dragon Amber powers cross-breeding altars and rare roosts."
+              "label": "Boosts",
+              "detail": "Dragon boosts are power-ups that grant an extra match or ability use."
             },
             {
-              "label": "Embers",
-              "detail": "Prismatic Embers refine endgame relics and legendary gear."
+              "label": "Not Pay to Win",
+              "detail": "All levels can be completed without power-ups."
             }
           ]
         },
         {
           "order": 8,
-          "name": "Dragongrove Release Guide",
-          "description": "Provides the latest information about release timing, supported platforms, device requirements, and official announcements.",
+          "name": "Dragon Grove Release Guide",
+          "description": "Provides the latest information about release timing, supported devices, play requirements, and official announcements.",
           "href": "/updates/dragongrove-release-date",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Platform",
-              "detail": "PC first on Steam, with console ports expected after launch."
+              "detail": "Mixed Reality on Meta Quest 3 headsets and up."
             },
             {
-              "label": "Playtest",
-              "detail": "Closed playtests run in waves through community signups."
+              "label": "Price",
+              "detail": "Free to play."
             },
             {
-              "label": "Demo",
-              "detail": "A free public Steam demo is planned for a seasonal showcase."
+              "label": "Release Window",
+              "detail": "Expected in spring 2027."
+            },
+            {
+              "label": "Controls",
+              "detail": "Played entirely with native hand tracking; no controller."
             },
             {
               "label": "Roadmap",
-              "detail": "Early Access targets the core systems with iterative updates."
+              "detail": "Additional content to be announced in the official roadmap and/or patch notes."
             },
             {
-              "label": "Launch",
-              "detail": "Full 1.0 release adds endgame breeding and worldwide retail."
-            },
-            {
-              "label": "Specs",
-              "detail": "Recommended: 16 GB RAM, RTX 3060, and 30 GB NVMe SSD."
+              "label": "Studio",
+              "detail": "A client project by Schell Games in collaboration with Meta."
             }
           ]
         }
@@ -412,71 +412,71 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Dragongrove.",
+      "description": "Quick answers to the most common questions about Dragon Grove.",
       "items": [
         {
-          "question": "What is Dragongrove?",
-          "answer": "Dragongrove is a fantasy sanctuary management game where you restore a magical grove and raise elemental dragons. You clear corrupted terrain, build habitats, breed new drakes, and send expedition teams into hazardous biomes."
+          "question": "What is Dragon Grove?",
+          "answer": "Dragon Grove is a cozy mixed-reality 3D spatial puzzle game by Schell Games, made in collaboration with Meta. It is designed exclusively for Mixed Reality on Meta Quest 3 and up and is played entirely with native hand tracking. You match and awaken magical dragon plants, foster your grove, unlock helpful dragon abilities and bond with dragons."
         },
         {
-          "question": "How do I raise my Grove Sanctuary Level in Dragongrove?",
-          "answer": "Complete restoration milestones, hatch new species, and keep companions happy. Each level unlocks new habitat footprints and structures such as the Nursery and the Alchemical Forge."
+          "question": "How do I progress in Dragon Grove?",
+          "answer": "Progress by completing the 200+ levels available at launch across 30 unique groves, earning Coins and stars along the way. Everyone starts with Pip, the signature green dragon, and the 18 dragons available at launch are all unlocked through progression."
         },
         {
-          "question": "What are the elemental affinities in Dragongrove?",
-          "answer": "Dragons belong to affinities including Ember, Verdant, Torrent, Gale, and Umbral. Matching a dragon to its native biome boosts mood, essence production, and expedition perks."
+          "question": "What dragons are in Dragon Grove?",
+          "answer": "Everyone starts with Pip, the signature green dragon. 18 dragons total are available at launch, and all are unlockable through progression. Specific dragon names and abilities beyond Pip are not documented at this time."
         },
         {
-          "question": "How do expeditions work in Dragongrove?",
-          "answer": "You send elemental teams into zones such as Bramblewood Thicket or Frostfall Crevasse. Match party resistances to the biome, pack provisions, and return with relics, runes, and rare eggs."
+          "question": "How do Coins work in Dragon Grove?",
+          "answer": "Completing levels earns Coins, which are usable in the shop for dragon hats, tail decorations and auras. Coins can also be purchased and do not expire. Dragon boosts are power-ups that grant an extra match or ability use, but all levels can be completed without power-ups, so the game is not pay to win."
         },
         {
-          "question": "Is Dragongrove free to play?",
-          "answer": "Dragongrove is planned as a paid PC release on Steam with an Early Access phase, followed by console ports after launch."
+          "question": "Is Dragon Grove free to play?",
+          "answer": "Yes. Dragon Grove is free to play, with an expected release in spring 2027 for Meta Quest 3 headsets and up. Coins can be purchased, but all levels can be completed without power-ups."
         },
         {
-          "question": "Where do Dragongrove rewards come from?",
-          "answer": "Rewards come from puzzle shrines, elite sentinels, and boss drop pools. Check the Dragongrove rewards guide for cache tiers, drop rates, and farming routes."
+          "question": "What features are advertised for Dragon Grove?",
+          "answer": "Official features include daily streak rewards, magical charms, meeting new dragons, tracking friends' journeys, 3D matching puzzles with new plant types, layers and spatial mechanics, and replaying groves to earn more stars. The official FAQ states the art, character assets and gameplay contain no AI components."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Explore Dragongrove?",
+      "title": "Ready to Explore Dragon Grove?",
       "description": "From your first dragon companion to 200+ spatial puzzle levels, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Meta Quest"
     }
   },
   "guide": {
-    "overviewTitle": "Dragongrove Guides & Tips",
-    "overviewDescription": "Beginner guides, full walkthroughs, reviews, and practical tips to help every keeper master Dragongrove."
+    "overviewTitle": "Dragon Grove Guides & Tips",
+    "overviewDescription": "Beginner guides, full walkthroughs, reviews, and practical tips to help every keeper master Dragon Grove."
   },
   "maps": {
-    "overviewTitle": "Dragongrove Maps & Areas",
-    "overviewDescription": "Explore Dragongrove maps, locations, regions, and world guides covering every sanctuary zone."
+    "overviewTitle": "Dragon Grove Maps & Areas",
+    "overviewDescription": "Explore Dragon Grove maps, groves, locations, and world guides covering every sanctuary zone."
   },
   "mechanics": {
-    "overviewTitle": "Dragongrove Gameplay Mechanics",
-    "overviewDescription": "Understand Dragongrove quests, progression, objectives, and the core gameplay systems behind the grove."
+    "overviewTitle": "Dragon Grove Gameplay Mechanics",
+    "overviewDescription": "Understand Dragon Grove puzzles, progression, objectives, and the core gameplay systems behind the grove."
   },
   "items": {
-    "overviewTitle": "Dragongrove Items & Crafting",
-    "overviewDescription": "Browse Dragongrove items, equipment, crafting recipes, resources, and rewards in one place."
+    "overviewTitle": "Dragon Grove Shop & Customization",
+    "overviewDescription": "Browse Dragon Grove shop items, cosmetics, charms, boosts, Coins, and rewards in one place."
   },
   "updates": {
-    "overviewTitle": "Dragongrove News & Updates",
-    "overviewDescription": "The latest Dragongrove updates, release date news, announcements, and patch coverage."
+    "overviewTitle": "Dragon Grove News & Updates",
+    "overviewDescription": "The latest Dragon Grove updates, release date news, official roadmap announcements, and patch coverage."
   },
   "community": {
-    "overviewTitle": "Dragongrove Community",
-    "overviewDescription": "Dragongrove community links, Reddit and Discord hubs, developer news, and FAQ answers."
+    "overviewTitle": "Dragon Grove Community",
+    "overviewDescription": "Dragon Grove community links, developer news from Schell Games, and FAQ answers."
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "News",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "viewAllCodes": "View all updates",
+    "playOnRoblox": "Play on Meta Quest",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -489,21 +489,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "Dragongrove Wiki",
-    "about": "Dragongrove Wiki is an independent fan-built guide hub covering dragon companions, spatial puzzles, levels, customization, coins, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Dragon Grove Wiki",
+    "about": "Dragon Grove Wiki is an independent fan-built guide hub covering dragon bonding, spatial puzzles, levels, customization, coins, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Dragongrove Wiki. Not affiliated with Schell Games or Meta.",
-    "description": "Free cozy 3D spatial puzzle game with magical dragon companions on Meta Quest.",
-    "playGame": "Play Dragongrove",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 Dragon Grove Wiki. Not affiliated with Schell Games or Meta.",
+    "description": "Free cozy 3D spatial puzzle game with magical dragon companions on Meta Quest 3 and up.",
+    "playGame": "Play Dragon Grove",
+    "officialDiscord": "Official Site",
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
     "mapGuide": "Map Guide",
     "gameplayGuide": "Gameplay Guide",
-    "craftingGuide": "Crafting Guide",
+    "craftingGuide": "Customization Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
